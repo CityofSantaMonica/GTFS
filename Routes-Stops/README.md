@@ -9,3 +9,8 @@
 1. Fork this repository
 1. Clean up the data
 1. Submit a pull request
+
+## Additional Resources
+
+- [QGIS](http://www.qgis.org/) - open source GIS system
+- [CAMS](http://egis3.lacounty.gov/dataportal/2013/09/26/2011-la-county-street-centerline-street-address-file/) - Los Angeles County street centerline geodatabase (if using QGIS you will need to install the gdal-filegdb library)
