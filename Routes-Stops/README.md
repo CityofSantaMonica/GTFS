@@ -1,6 +1,8 @@
 # Routes and Stops
 
-There are some inaccuracies in the route vectors (they do not follow street center lines correctly).
+- The stops file is derived from the current GTFS data.
+- The routes file is derived from a different system.
+- There are some inaccuracies in the route vectors (they do not follow street center lines correctly).
 
 ## How you can help 
 
