@@ -7,8 +7,14 @@
 ## How you can help 
 
 1. Fork this repository
-1. Clean up the data
-1. Submit a pull request
+2. Clean up the data
+  1. Load stops layer (accurate stop locations)
+  2. Load a base map (e.g. OpenLayers plugin in QGIS for Google Streets or OpenStreetMap)
+  3. Load CAMS (optional) for street centerlines
+  4. Load routes layer and save in editable format (e.g. Shapefile)
+  5. Correct route lines where they divert from street centerline
+  6. Save corrected routes layer in GeoJSON or Shapefile format
+3. Submit a pull request
 
 ## Additional Resources
 
