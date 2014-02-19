@@ -1,0 +1,626 @@
+WKT;route_short_name;route_long_name;direction_id;trip_headsign;headsign;trip_id;stop_sequence;stop_name
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;1;Green Line Station
+"MULTIPOINT (-118.378303 33.9312562)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;2;Aviation Nb & Imperial Fs
+"MULTIPOINT (-118.3783473 33.9342428)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;3;Aviation Nb & 111Th Ns
+"MULTIPOINT (-118.3783719 33.9417635)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;4;Aviation Nb & 104Th Ns
+"MULTIPOINT (-118.3791431 33.9455989)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;5;Century Wb & Aviaton Fs
+"MULTIPOINT (-118.3815869 33.945535)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;6;Century Wb & International Ns
+"MULTIPOINT (-118.3858989 33.9463651)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;7;Airport Nb & Century Fs
+"MULTIPOINT (-118.3871097 33.9492696)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;8;96Th Wb & Airport Fs
+"MULTIPOINT (-118.392147 33.9490648)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;9;Lax Transit Center Bay 12
+"MULTIPOINT (-118.3957186 33.9488192)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;10;96Th Wb & Sepulveda Ns
+"MULTIPOINT (-118.39608870000001 33.9543248)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;11;Sepulveda Nb & Westchester Pkwy Ns
+"MULTIPOINT (-118.396134 33.9576277)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;12;Sepulveda Nb & La Tijera Fs
+"MULTIPOINT (-118.3966654 33.9599376)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;13;Manchester Wb & Sepulveda Fs
+"MULTIPOINT (-118.4006292 33.95991)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;14;Manchester Wb & Kentwood Fs
+"MULTIPOINT (-118.4041542 33.9599042)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;15;Manchester Wb & Emerson Ns
+"MULTIPOINT (-118.4096164 33.959877)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;16;Manchester Wb & Mc Connell Ns
+"MULTIPOINT (-118.413385 33.9598787)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;17;Manchester Wb & Georgetown Ns
+"MULTIPOINT (-118.4170006 33.959867)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;18;Manchester Wb & Loyola Fs
+"MULTIPOINT (-118.4191053 33.9598489)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;19;Manchester Wb & Lincoln Ns
+"MULTIPOINT (-118.4214207 33.9624851)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;20;Lincoln Nb & 83Rd Ns
+"MULTIPOINT (-118.4240941 33.9654079)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;21;Lincoln Nb & Lmu Dr Ns
+"MULTIPOINT (-118.42754840000001 33.9680181)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;22;Lincoln Nb & Bluff Creek Fs
+"MULTIPOINT (-118.4303462 33.9725497)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;23;Lincoln Nb & Jefferson Fs
+"MULTIPOINT (-118.4367815 33.9788171)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;24;Lincoln Nb & Fiji Fs
+"MULTIPOINT (-118.4392156 33.9808945)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;25;Lincoln Nb & Mindanao Fs
+"MULTIPOINT (-118.4407421 33.9823976)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;26;Lincoln Nb & Bali Ns
+"MULTIPOINT (-118.4435297 33.9859493)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;27;Lincoln Nb & Maxella Fs
+"MULTIPOINT (-118.4480016 33.9907719)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;28;Lincoln Nb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.4492662 33.9922887)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;29;Lincoln Nb & Zanja Ns
+"MULTIPOINT (-118.4522767 33.993907)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;30;Lincoln Nb & Venice Ns
+"MULTIPOINT (-118.4546739 33.9950728)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;31;Lincoln Nb & Victoria Ns
+"MULTIPOINT (-118.45727220000001 33.996357)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;32;Lincoln Nb & Superba Ns
+"MULTIPOINT (-118.4589645 33.9971331)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;33;Lincoln Nb & Palms Ns
+"MULTIPOINT (-118.46066930000001 33.9979466)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;34;Lincoln Nb & California (Ven) Ns
+"MULTIPOINT (-118.462275 33.9987317)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;35;Lincoln Nb & Lake Ns
+"MULTIPOINT (-118.4651056 34.0000995)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;36;Lincoln Nb & Sunset Ns
+"MULTIPOINT (-118.4673909 34.0011872)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;37;Lincoln Nb & Rose Ns
+"MULTIPOINT (-118.4709192 34.00304)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;38;Lincoln Nb & Marine Ns
+"MULTIPOINT (-118.47373020000001 34.0051025)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;39;Lincoln Nb & Ashland Fs
+"MULTIPOINT (-118.4760378 34.0068303)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;40;Lincoln Nb & Ocean Park Ns
+"MULTIPOINT (-118.47972420000001 34.0097645)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;41;Lincoln Nb & Pearl Fs
+"MULTIPOINT (-118.4833926 34.0121291)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;42;Pico Wb & Lincoln Fs
+"MULTIPOINT (-118.4849456 34.0112497)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;43;Pico Wb & 6Th Ns
+"MULTIPOINT (-118.4875629 34.0099861)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;44;4Th Nb & Pico Fs
+"MULTIPOINT (-118.4922701 34.0140931)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;45;4Th Nb & Colorado Fs
+"MULTIPOINT (-118.4933625 34.0150203)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;46;4Th Nb & Broadway Ns
+"MULTIPOINT (-118.4949244 34.0163321)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;47;4Th Nb & Santa Monica Ns
+"MULTIPOINT (-118.496885 34.0179525)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;48;4Th Nb & Arizona Fs
+"MULTIPOINT (-118.4980961 34.0190539)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;49;4Th Nb & Wilshire Ns
+"MULTIPOINT (-118.49653840000001 34.0203919)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;50;Wilshire Eb & 6Th Ns
+"MULTIPOINT (-118.4946763 34.0224062)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;51;Lincoln Nb & Wilshire Fs
+"MULTIPOINT (-118.4963265 34.0237392)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;52;Lincoln Nb & California (Sm) Fs
+"MULTIPOINT (-118.4979 34.025108)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;53;Lincoln Nb & Washington (Sm) Fs
+"MULTIPOINT (-118.4994552 34.0264459)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;54;Lincoln Nb & Idaho Fs
+"MULTIPOINT (-118.5007085 34.027403)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;55;Lincoln Nb & Montana Ns
+"MULTIPOINT (-118.49776110000001 34.030026)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;56;Montana Eb & 11Th Fs
+"MULTIPOINT (-118.49588780000001 34.031547)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;57;Montana Eb & Euclid Fs
+"MULTIPOINT (-118.494009 34.0330736)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;58;Montana Eb & 15Th Fs
+"MULTIPOINT (-118.4921119 34.0345998)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;59;Montana Eb & 17Th Fs
+"MULTIPOINT (-118.4896789 34.0365878)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;60;Montana Eb & 20Th Ns
+"MULTIPOINT (-118.4877218 34.0382425)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;61;Montana Eb & 22Nd Ns
+"MULTIPOINT (-118.4853406 34.0400863)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;62;Montana Eb & 24Th Fs
+"MULTIPOINT (-118.483579 34.0415294)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;63;Montana Eb & 26Th Fs
+"MULTIPOINT (-118.4820033 34.042817)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;64;Montana Eb & Harvard Ns
+"MULTIPOINT (-118.4801527 34.044346)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;65;Montana Eb & Stanford Ns
+"MULTIPOINT (-118.4780286 34.0462454)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;66;Montana Eb & Centinela Ns
+"MULTIPOINT (-118.4755325 34.0480822)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;67;Montana Eb & Amherst Ns
+"MULTIPOINT (-118.4738928 34.0493351)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;68;Montana Eb & Gretna Green Ns
+"MULTIPOINT (-118.4722823 34.0507176)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;69;Montana Eb & Bundy Fs
+"MULTIPOINT (-118.4700608 34.0524771)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;70;Montana Eb & San Vicente Ns
+"MULTIPOINT (-118.4656499 34.0534885)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;71;San Vicente Eb & Barrington Ns
+"MULTIPOINT (-118.4614309 34.0531812)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;72;San Vicente Sb & Mayfield Fs
+"MULTIPOINT (-118.4553495 34.0542414)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;73;Wilshire Eb & Bonsall Fs
+"MULTIPOINT (-118.4479052 34.0575799)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;74;Wilshire Eb & Veteran Ns
+"MULTIPOINT (-118.4443707 34.0594547)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;75;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4454066 34.0624205)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;76;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4452665 34.0635232)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;77;Westwood Nb & Le Conte Ns
+"MULTIPOINT (-118.442728 34.063671)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;78;Le Conte Eb & Tiverton Ns
+"MULTIPOINT (-118.4409036 34.0645011)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;79;Hilgard Nb & Le Conte Fs
+"MULTIPOINT (-118.4396655 34.0664399)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;80;Hilgard Nb & Manning Ave Ns
+"MULTIPOINT (-118.4389286 34.0694032)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;81;Hilgard Nb & Westholme Ns
+"MULTIPOINT (-118.4385593 34.0710292)";3;Montana Ave - Lincoln Blvd;0;Line 3  UCLA;3 - Montana Ave - Lincoln Blvd - 0 - Line 3  UCLA;581472;82;Ucla Terminal
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;1;Green Line Station
+"MULTIPOINT (-118.378303 33.9312562)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;2;Aviation Nb & Imperial Fs
+"MULTIPOINT (-118.3783473 33.9342428)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;3;Aviation Nb & 111Th Ns
+"MULTIPOINT (-118.3783719 33.9417635)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;4;Aviation Nb & 104Th Ns
+"MULTIPOINT (-118.3791431 33.9455989)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;5;Century Wb & Aviaton Fs
+"MULTIPOINT (-118.3815869 33.945535)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;6;Century Wb & International Ns
+"MULTIPOINT (-118.3858989 33.9463651)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;7;Airport Nb & Century Fs
+"MULTIPOINT (-118.3871097 33.9492696)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;8;96Th Wb & Airport Fs
+"MULTIPOINT (-118.392147 33.9490648)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;9;Lax Transit Center Bay 12
+"MULTIPOINT (-118.3957186 33.9488192)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;10;96Th Wb & Sepulveda Ns
+"MULTIPOINT (-118.39608870000001 33.9543248)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;11;Sepulveda Nb & Westchester Pkwy Ns
+"MULTIPOINT (-118.396134 33.9576277)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;12;Sepulveda Nb & La Tijera Fs
+"MULTIPOINT (-118.3966654 33.9599376)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;13;Manchester Wb & Sepulveda Fs
+"MULTIPOINT (-118.4006292 33.95991)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;14;Manchester Wb & Kentwood Fs
+"MULTIPOINT (-118.4041542 33.9599042)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;15;Manchester Wb & Emerson Ns
+"MULTIPOINT (-118.4096164 33.959877)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;16;Manchester Wb & Mc Connell Ns
+"MULTIPOINT (-118.413385 33.9598787)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;17;Manchester Wb & Georgetown Ns
+"MULTIPOINT (-118.4170006 33.959867)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;18;Manchester Wb & Loyola Fs
+"MULTIPOINT (-118.4191053 33.9598489)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;19;Manchester Wb & Lincoln Ns
+"MULTIPOINT (-118.4214207 33.9624851)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;20;Lincoln Nb & 83Rd Ns
+"MULTIPOINT (-118.4240941 33.9654079)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;21;Lincoln Nb & Lmu Dr Ns
+"MULTIPOINT (-118.42754840000001 33.9680181)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;22;Lincoln Nb & Bluff Creek Fs
+"MULTIPOINT (-118.4303462 33.9725497)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;23;Lincoln Nb & Jefferson Fs
+"MULTIPOINT (-118.4367815 33.9788171)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;24;Lincoln Nb & Fiji Fs
+"MULTIPOINT (-118.4392156 33.9808945)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;25;Lincoln Nb & Mindanao Fs
+"MULTIPOINT (-118.4407421 33.9823976)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;26;Lincoln Nb & Bali Ns
+"MULTIPOINT (-118.4435297 33.9859493)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;27;Lincoln Nb & Maxella Fs
+"MULTIPOINT (-118.4480016 33.9907719)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;28;Lincoln Nb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.4492662 33.9922887)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;29;Lincoln Nb & Zanja Ns
+"MULTIPOINT (-118.4522767 33.993907)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;30;Lincoln Nb & Venice Ns
+"MULTIPOINT (-118.4546739 33.9950728)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;31;Lincoln Nb & Victoria Ns
+"MULTIPOINT (-118.45727220000001 33.996357)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;32;Lincoln Nb & Superba Ns
+"MULTIPOINT (-118.4589645 33.9971331)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;33;Lincoln Nb & Palms Ns
+"MULTIPOINT (-118.46066930000001 33.9979466)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;34;Lincoln Nb & California (Ven) Ns
+"MULTIPOINT (-118.462275 33.9987317)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;35;Lincoln Nb & Lake Ns
+"MULTIPOINT (-118.4651056 34.0000995)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;36;Lincoln Nb & Sunset Ns
+"MULTIPOINT (-118.4673909 34.0011872)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;37;Lincoln Nb & Rose Ns
+"MULTIPOINT (-118.4709192 34.00304)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;38;Lincoln Nb & Marine Ns
+"MULTIPOINT (-118.47373020000001 34.0051025)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;39;Lincoln Nb & Ashland Fs
+"MULTIPOINT (-118.4760378 34.0068303)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;40;Lincoln Nb & Ocean Park Ns
+"MULTIPOINT (-118.47972420000001 34.0097645)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;41;Lincoln Nb & Pearl Fs
+"MULTIPOINT (-118.4833926 34.0121291)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;42;Pico Wb & Lincoln Fs
+"MULTIPOINT (-118.4849456 34.0112497)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;43;Pico Wb & 6Th Ns
+"MULTIPOINT (-118.4875629 34.0099861)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;44;4Th Nb & Pico Fs
+"MULTIPOINT (-118.4922701 34.0140931)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;45;4Th Nb & Colorado Fs
+"MULTIPOINT (-118.4933625 34.0150203)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;46;4Th Nb & Broadway Ns
+"MULTIPOINT (-118.4949244 34.0163321)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;47;4Th Nb & Santa Monica Ns
+"MULTIPOINT (-118.4959582 34.0183416)";3;Montana Ave - Lincoln Blvd;0;Line 3 5th & Arizona Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 5th & Arizona Only;581223;48;Arizona Eb & 5Th Ns
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;1;Green Line Station
+"MULTIPOINT (-118.378303 33.9312562)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;2;Aviation Nb & Imperial Fs
+"MULTIPOINT (-118.3783473 33.9342428)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;3;Aviation Nb & 111Th Ns
+"MULTIPOINT (-118.3783719 33.9417635)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;4;Aviation Nb & 104Th Ns
+"MULTIPOINT (-118.3791431 33.9455989)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;5;Century Wb & Aviaton Fs
+"MULTIPOINT (-118.3815869 33.945535)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;6;Century Wb & International Ns
+"MULTIPOINT (-118.3858989 33.9463651)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;7;Airport Nb & Century Fs
+"MULTIPOINT (-118.3871097 33.9492696)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;8;96Th Wb & Airport Fs
+"MULTIPOINT (-118.392147 33.9490648)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;9;Lax Transit Center Bay 12
+"MULTIPOINT (-118.3957186 33.9488192)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;10;96Th Wb & Sepulveda Ns
+"MULTIPOINT (-118.39608870000001 33.9543248)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;11;Sepulveda Nb & Westchester Pkwy Ns
+"MULTIPOINT (-118.396134 33.9576277)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;12;Sepulveda Nb & La Tijera Fs
+"MULTIPOINT (-118.3966654 33.9599376)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;13;Manchester Wb & Sepulveda Fs
+"MULTIPOINT (-118.4006292 33.95991)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;14;Manchester Wb & Kentwood Fs
+"MULTIPOINT (-118.4041542 33.9599042)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;15;Manchester Wb & Emerson Ns
+"MULTIPOINT (-118.4096164 33.959877)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;16;Manchester Wb & Mc Connell Ns
+"MULTIPOINT (-118.413385 33.9598787)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;17;Manchester Wb & Georgetown Ns
+"MULTIPOINT (-118.4170006 33.959867)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;18;Manchester Wb & Loyola Fs
+"MULTIPOINT (-118.4191053 33.9598489)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;19;Manchester Wb & Lincoln Ns
+"MULTIPOINT (-118.4214207 33.9624851)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;20;Lincoln Nb & 83Rd Ns
+"MULTIPOINT (-118.4240941 33.9654079)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;21;Lincoln Nb & Lmu Dr Ns
+"MULTIPOINT (-118.42754840000001 33.9680181)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;22;Lincoln Nb & Bluff Creek Fs
+"MULTIPOINT (-118.4303462 33.9725497)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;23;Lincoln Nb & Jefferson Fs
+"MULTIPOINT (-118.4367815 33.9788171)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;24;Lincoln Nb & Fiji Fs
+"MULTIPOINT (-118.4392156 33.9808945)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;25;Lincoln Nb & Mindanao Fs
+"MULTIPOINT (-118.4407421 33.9823976)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;26;Lincoln Nb & Bali Ns
+"MULTIPOINT (-118.4435297 33.9859493)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;27;Lincoln Nb & Maxella Fs
+"MULTIPOINT (-118.4480016 33.9907719)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;28;Lincoln Nb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.4492662 33.9922887)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;29;Lincoln Nb & Zanja Ns
+"MULTIPOINT (-118.4522767 33.993907)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;30;Lincoln Nb & Venice Ns
+"MULTIPOINT (-118.4546739 33.9950728)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;31;Lincoln Nb & Victoria Ns
+"MULTIPOINT (-118.45727220000001 33.996357)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;32;Lincoln Nb & Superba Ns
+"MULTIPOINT (-118.4589645 33.9971331)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;33;Lincoln Nb & Palms Ns
+"MULTIPOINT (-118.46066930000001 33.9979466)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;34;Lincoln Nb & California (Ven) Ns
+"MULTIPOINT (-118.462275 33.9987317)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;35;Lincoln Nb & Lake Ns
+"MULTIPOINT (-118.4651056 34.0000995)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;36;Lincoln Nb & Sunset Ns
+"MULTIPOINT (-118.4673909 34.0011872)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;37;Lincoln Nb & Rose Ns
+"MULTIPOINT (-118.4709192 34.00304)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;38;Lincoln Nb & Marine Ns
+"MULTIPOINT (-118.47373020000001 34.0051025)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;39;Lincoln Nb & Ashland Fs
+"MULTIPOINT (-118.4760378 34.0068303)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;40;Lincoln Nb & Ocean Park Ns
+"MULTIPOINT (-118.47972420000001 34.0097645)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;41;Lincoln Nb & Pearl Fs
+"MULTIPOINT (-118.4833926 34.0121291)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;42;Pico Wb & Lincoln Fs
+"MULTIPOINT (-118.4849456 34.0112497)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;43;Pico Wb & 6Th Ns
+"MULTIPOINT (-118.4875629 34.0099861)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;44;4Th Nb & Pico Fs
+"MULTIPOINT (-118.4922701 34.0140931)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;45;4Th Nb & Colorado Fs
+"MULTIPOINT (-118.4933625 34.0150203)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;46;4Th Nb & Broadway Ns
+"MULTIPOINT (-118.4949244 34.0163321)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;47;4Th Nb & Santa Monica Ns
+"MULTIPOINT (-118.496885 34.0179525)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;48;4Th Nb & Arizona Fs
+"MULTIPOINT (-118.4980961 34.0190539)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;49;4Th Nb & Wilshire Ns
+"MULTIPOINT (-118.49653840000001 34.0203919)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;50;Wilshire Eb & 6Th Ns
+"MULTIPOINT (-118.4946763 34.0224062)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;51;Lincoln Nb & Wilshire Fs
+"MULTIPOINT (-118.4963265 34.0237392)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;52;Lincoln Nb & California (Sm) Fs
+"MULTIPOINT (-118.4979 34.025108)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;53;Lincoln Nb & Washington (Sm) Fs
+"MULTIPOINT (-118.4994552 34.0264459)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;54;Lincoln Nb & Idaho Fs
+"MULTIPOINT (-118.5007085 34.027403)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;55;Lincoln Nb & Montana Ns
+"MULTIPOINT (-118.49776110000001 34.030026)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;56;Montana Eb & 11Th Fs
+"MULTIPOINT (-118.49588780000001 34.031547)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;57;Montana Eb & Euclid Fs
+"MULTIPOINT (-118.494009 34.0330736)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;58;Montana Eb & 15Th Fs
+"MULTIPOINT (-118.4921119 34.0345998)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;59;Montana Eb & 17Th Fs
+"MULTIPOINT (-118.4896789 34.0365878)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;60;Montana Eb & 20Th Ns
+"MULTIPOINT (-118.4877218 34.0382425)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;61;Montana Eb & 22Nd Ns
+"MULTIPOINT (-118.4853406 34.0400863)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;62;Montana Eb & 24Th Fs
+"MULTIPOINT (-118.483579 34.0415294)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;63;Montana Eb & 26Th Fs
+"MULTIPOINT (-118.4820033 34.042817)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;64;Montana Eb & Harvard Ns
+"MULTIPOINT (-118.4801527 34.044346)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;65;Montana Eb & Stanford Ns
+"MULTIPOINT (-118.4780286 34.0462454)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;66;Montana Eb & Centinela Ns
+"MULTIPOINT (-118.4755325 34.0480822)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;67;Montana Eb & Amherst Ns
+"MULTIPOINT (-118.4738928 34.0493351)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;68;Montana Eb & Gretna Green Ns
+"MULTIPOINT (-118.4722823 34.0507176)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;69;Montana Eb & Bundy Fs
+"MULTIPOINT (-118.4700608 34.0524771)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;70;Montana Eb & San Vicente Ns
+"MULTIPOINT (-118.4664908 34.0536148)";3;Montana Ave - Lincoln Blvd;0;Line 3 Gorham & San Vicente Only;3 - Montana Ave - Lincoln Blvd - 0 - Line 3 Gorham & San Vicente Only;585105;71;Gorham Wb & San Vicente Ns
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;1;Green Line Station
+"MULTIPOINT (-118.378303 33.9312562)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;2;Aviation Nb & Imperial Fs
+"MULTIPOINT (-118.3783473 33.9342428)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;3;Aviation Nb & 111Th Ns
+"MULTIPOINT (-118.3783719 33.9417635)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;4;Aviation Nb & 104Th Ns
+"MULTIPOINT (-118.3791431 33.9455989)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;5;Century Wb & Aviaton Fs
+"MULTIPOINT (-118.3815869 33.945535)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;6;Century Wb & International Ns
+"MULTIPOINT (-118.3858989 33.9463651)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;7;Airport Nb & Century Fs
+"MULTIPOINT (-118.3871097 33.9492696)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;8;96Th Wb & Airport Fs
+"MULTIPOINT (-118.392147 33.9490648)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;9;Lax Transit Center Bay 12
+"MULTIPOINT (-118.3957186 33.9488192)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;10;96Th Wb & Sepulveda Ns
+"MULTIPOINT (-118.39608870000001 33.9543248)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;11;Sepulveda Nb & Westchester Pkwy Ns
+"MULTIPOINT (-118.396134 33.9576277)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;12;Sepulveda Nb & La Tijera Fs
+"MULTIPOINT (-118.3966654 33.9599376)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;13;Manchester Wb & Sepulveda Fs
+"MULTIPOINT (-118.4006292 33.95991)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;14;Manchester Wb & Kentwood Fs
+"MULTIPOINT (-118.4041542 33.9599042)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;15;Manchester Wb & Emerson Ns
+"MULTIPOINT (-118.4096164 33.959877)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;16;Manchester Wb & Mc Connell Ns
+"MULTIPOINT (-118.413385 33.9598787)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;17;Manchester Wb & Georgetown Ns
+"MULTIPOINT (-118.4170006 33.959867)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;18;Manchester Wb & Loyola Fs
+"MULTIPOINT (-118.4191053 33.9598489)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;19;Manchester Wb & Lincoln Ns
+"MULTIPOINT (-118.4214207 33.9624851)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;20;Lincoln Nb & 83Rd Ns
+"MULTIPOINT (-118.4240941 33.9654079)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;21;Lincoln Nb & Lmu Dr Ns
+"MULTIPOINT (-118.42754840000001 33.9680181)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;22;Lincoln Nb & Bluff Creek Fs
+"MULTIPOINT (-118.4303462 33.9725497)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;23;Lincoln Nb & Jefferson Fs
+"MULTIPOINT (-118.4367815 33.9788171)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;24;Lincoln Nb & Fiji Fs
+"MULTIPOINT (-118.4392156 33.9808945)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;25;Lincoln Nb & Mindanao Fs
+"MULTIPOINT (-118.4407421 33.9823976)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;26;Lincoln Nb & Bali Ns
+"MULTIPOINT (-118.4435297 33.9859493)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;27;Lincoln Nb & Maxella Fs
+"MULTIPOINT (-118.4480016 33.9907719)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;28;Lincoln Nb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.4492662 33.9922887)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;29;Lincoln Nb & Zanja Ns
+"MULTIPOINT (-118.4522767 33.993907)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;30;Lincoln Nb & Venice Ns
+"MULTIPOINT (-118.4546739 33.9950728)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;31;Lincoln Nb & Victoria Ns
+"MULTIPOINT (-118.45727220000001 33.996357)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;32;Lincoln Nb & Superba Ns
+"MULTIPOINT (-118.4589645 33.9971331)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;33;Lincoln Nb & Palms Ns
+"MULTIPOINT (-118.46066930000001 33.9979466)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;34;Lincoln Nb & California (Ven) Ns
+"MULTIPOINT (-118.462275 33.9987317)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;35;Lincoln Nb & Lake Ns
+"MULTIPOINT (-118.4651056 34.0000995)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;36;Lincoln Nb & Sunset Ns
+"MULTIPOINT (-118.4673909 34.0011872)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;37;Lincoln Nb & Rose Ns
+"MULTIPOINT (-118.4709192 34.00304)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;38;Lincoln Nb & Marine Ns
+"MULTIPOINT (-118.47373020000001 34.0051025)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;39;Lincoln Nb & Ashland Fs
+"MULTIPOINT (-118.4760378 34.0068303)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;40;Lincoln Nb & Ocean Park Ns
+"MULTIPOINT (-118.47972420000001 34.0097645)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;41;Lincoln Nb & Pearl Fs
+"MULTIPOINT (-118.4833926 34.0121291)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;42;Pico Wb & Lincoln Fs
+"MULTIPOINT (-118.4849456 34.0112497)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;43;Pico Wb & 6Th Ns
+"MULTIPOINT (-118.4875629 34.0099861)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;44;4Th Nb & Pico Fs
+"MULTIPOINT (-118.4922701 34.0140931)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;45;4Th Nb & Colorado Fs
+"MULTIPOINT (-118.4933625 34.0150203)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;46;4Th Nb & Broadway Ns
+"MULTIPOINT (-118.4949244 34.0163321)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;47;4Th Nb & Santa Monica Ns
+"MULTIPOINT (-118.496885 34.0179525)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;48;4Th Nb & Arizona Fs
+"MULTIPOINT (-118.4980961 34.0190539)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;49;4Th Nb & Wilshire Ns
+"MULTIPOINT (-118.49653840000001 34.0203919)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;50;Wilshire Eb & 6Th Ns
+"MULTIPOINT (-118.4946763 34.0224062)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;51;Lincoln Nb & Wilshire Fs
+"MULTIPOINT (-118.4963265 34.0237392)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;52;Lincoln Nb & California (Sm) Fs
+"MULTIPOINT (-118.4979 34.025108)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;53;Lincoln Nb & Washington (Sm) Fs
+"MULTIPOINT (-118.4994552 34.0264459)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;54;Lincoln Nb & Idaho Fs
+"MULTIPOINT (-118.5007085 34.027403)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;55;Lincoln Nb & Montana Ns
+"MULTIPOINT (-118.49776110000001 34.030026)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;56;Montana Eb & 11Th Fs
+"MULTIPOINT (-118.49588780000001 34.031547)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;57;Montana Eb & Euclid Fs
+"MULTIPOINT (-118.494009 34.0330736)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;58;Montana Eb & 15Th Fs
+"MULTIPOINT (-118.4921119 34.0345998)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;59;Montana Eb & 17Th Fs
+"MULTIPOINT (-118.4896789 34.0365878)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;60;Montana Eb & 20Th Ns
+"MULTIPOINT (-118.4877218 34.0382425)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;61;Montana Eb & 22Nd Ns
+"MULTIPOINT (-118.4853406 34.0400863)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;62;Montana Eb & 24Th Fs
+"MULTIPOINT (-118.483579 34.0415294)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;63;Montana Eb & 26Th Fs
+"MULTIPOINT (-118.4820033 34.042817)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;64;Montana Eb & Harvard Ns
+"MULTIPOINT (-118.4801527 34.044346)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;65;Montana Eb & Stanford Ns
+"MULTIPOINT (-118.4780286 34.0462454)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;66;Montana Eb & Centinela Ns
+"MULTIPOINT (-118.4755325 34.0480822)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;67;Montana Eb & Amherst Ns
+"MULTIPOINT (-118.4738928 34.0493351)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;68;Montana Eb & Gretna Green Ns
+"MULTIPOINT (-118.4722823 34.0507176)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;69;Montana Eb & Bundy Fs
+"MULTIPOINT (-118.4700608 34.0524771)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;70;Montana Eb & San Vicente Ns
+"MULTIPOINT (-118.4656499 34.0534885)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;71;San Vicente Eb & Barrington Ns
+"MULTIPOINT (-118.4614309 34.0531812)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;72;San Vicente Sb & Mayfield Fs
+"MULTIPOINT (-118.4553495 34.0542414)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;73;Wilshire Eb & Bonsall Fs
+"MULTIPOINT (-118.4479052 34.0575799)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;74;Wilshire Eb & Veteran Ns
+"MULTIPOINT (-118.4443707 34.0594547)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;75;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4454066 34.0624205)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;76;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4452312 34.0654335)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;77;Westwood Plaza Nb & J Stein Eye Fs
+"MULTIPOINT (-118.4403181 34.0682928)";3;Montana Ave - Lincoln Blvd;0;UCLA;3 - Montana Ave - Lincoln Blvd - 0 - UCLA;581222;78;Charles E Young Term B
+"MULTIPOINT (-118.4403181 34.0682928)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;1;Charles E Young Term B
+"MULTIPOINT (-118.4664908 34.0536148)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;1;Gorham Wb & San Vicente Ns
+"MULTIPOINT (-118.4556903 34.0546126)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;1;Wilshire Wb & Bonsall Ns
+"MULTIPOINT (-118.4959582 34.0183416)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;1;Arizona Eb & 5Th Ns
+"MULTIPOINT (-118.4385593 34.0710292)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;1;Ucla Terminal
+"MULTIPOINT (-118.4391208 34.0693345)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4703799 34.0524122)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;2;Montana Wb & San Vicente Fs
+"MULTIPOINT (-118.4625142 34.0540311)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;2;San Vicente Wb & Bringham Fs
+"MULTIPOINT (-118.49763590000001 34.0185201)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;2;4Th Sb & Wilshire Fs
+"MULTIPOINT (-118.4391208 34.0693345)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4394437 34.0669549)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.472514 34.0506914)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;3;Montana Wb & Bundy Ns
+"MULTIPOINT (-118.4655492 34.0537862)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;3;San Vicente Wb & Barrington Ns
+"MULTIPOINT (-118.4949212 34.0161266)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;3;4Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4394437 34.0669549)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.44135470000001 34.0641377)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.4736823 34.0497269)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;4;Montana Wb & Gretna Green Ns
+"MULTIPOINT (-118.4703799 34.0524122)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;4;Montana Wb & San Vicente Fs
+"MULTIPOINT (-118.4937627 34.015149)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;4;4Th Sb & Broadway Ns
+"MULTIPOINT (-118.44135470000001 34.0641377)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.442829 34.0637914)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.4753867 34.0483205)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;5;Montana Wb & Amherst Ns
+"MULTIPOINT (-118.472514 34.0506914)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;5;Montana Wb & Bundy Ns
+"MULTIPOINT (-118.4928415 34.0143598)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;5;4Th Sb & Santa Monica Place Co
+"MULTIPOINT (-118.442829 34.0637914)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.4454548 34.0627881)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.4777807 34.0464685)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;6;Montana Wb & Centinela Ns
+"MULTIPOINT (-118.4736823 34.0497269)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;6;Montana Wb & Gretna Green Ns
+"MULTIPOINT (-118.4888677 34.0109802)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;6;4Th Sb & Civic Center Mb
+"MULTIPOINT (-118.4454548 34.0627881)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.444879 34.0598913)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.4803325 34.0446094)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;7;Montana Sb & Stanford Ns
+"MULTIPOINT (-118.4753867 34.0483205)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;7;Montana Wb & Amherst Ns
+"MULTIPOINT (-118.4868643 34.0098576)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;7;Pico Eb & 4Th Fs
+"MULTIPOINT (-118.444879 34.0598913)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.447519 34.0579795)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;8;Wilshire Wb & Veteran Ns
+"MULTIPOINT (-118.4819727 34.0430107)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;8;Montana Wb & Burlingame Ns
+"MULTIPOINT (-118.4777807 34.0464685)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;8;Montana Wb & Centinela Ns
+"MULTIPOINT (-118.4850866 34.0110306)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;8;Pico Eb & 6Th Ns
+"MULTIPOINT (-118.447519 34.0579795)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;8;Wilshire Wb & Veteran Ns
+"MULTIPOINT (-118.4556903 34.0546126)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;9;Wilshire Wb & Bonsall Ns
+"MULTIPOINT (-118.484098 34.04129)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;9;Montana Wb & 26Th Fs
+"MULTIPOINT (-118.4803325 34.0446094)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;9;Montana Sb & Stanford Ns
+"MULTIPOINT (-118.482848 34.0120745)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;9;Lincoln Sb & Pico Fs
+"MULTIPOINT (-118.4556903 34.0546126)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;9;Wilshire Wb & Bonsall Ns
+"MULTIPOINT (-118.4625142 34.0540311)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;10;San Vicente Wb & Bringham Fs
+"MULTIPOINT (-118.4857765 34.0399358)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;10;Montana Wb & 24Th Fs
+"MULTIPOINT (-118.4819727 34.0430107)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;10;Montana Wb & Burlingame Ns
+"MULTIPOINT (-118.4798017 34.009586)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;10;Lincoln Sb & Pearl Ns
+"MULTIPOINT (-118.4625142 34.0540311)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;10;San Vicente Wb & Bringham Fs
+"MULTIPOINT (-118.4655492 34.0537862)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;11;San Vicente Wb & Barrington Ns
+"MULTIPOINT (-118.4871513 34.038824)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;11;Montana Wb & 22Nd Ns
+"MULTIPOINT (-118.484098 34.04129)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;11;Montana Wb & 26Th Fs
+"MULTIPOINT (-118.4760538 34.0066088)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;11;Lincoln Sb & Ocean Park Fs
+"MULTIPOINT (-118.4655492 34.0537862)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;11;San Vicente Wb & Barrington Ns
+"MULTIPOINT (-118.4703799 34.0524122)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;12;Montana Wb & San Vicente Fs
+"MULTIPOINT (-118.489727 34.036756)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;12;Montana Wb & 20Th Ns
+"MULTIPOINT (-118.4857765 34.0399358)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;12;Montana Wb & 24Th Fs
+"MULTIPOINT (-118.4737574 34.0048886)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;12;Lincoln Sb & Ashland Ns
+"MULTIPOINT (-118.4703799 34.0524122)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;12;Montana Wb & San Vicente Fs
+"MULTIPOINT (-118.472514 34.0506914)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;13;Montana Wb & Bundy Ns
+"MULTIPOINT (-118.4922846 34.0346845)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;13;Montana Wb & 17Th Ns
+"MULTIPOINT (-118.4871513 34.038824)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;13;Montana Wb & 22Nd Ns
+"MULTIPOINT (-118.471355 34.00313)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;13;Lincoln Sb & Navy Ns
+"MULTIPOINT (-118.472514 34.0506914)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;13;Montana Wb & Bundy Ns
+"MULTIPOINT (-118.4736823 34.0497269)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;14;Montana Wb & Gretna Green Ns
+"MULTIPOINT (-118.494128 34.033112)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;14;Montana Wb & 15Th Ns
+"MULTIPOINT (-118.489727 34.036756)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;14;Montana Wb & 20Th Ns
+"MULTIPOINT (-118.467536 34.0011042)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;14;Lincoln Sb & Rose Fs
+"MULTIPOINT (-118.4736823 34.0497269)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;14;Montana Wb & Gretna Green Ns
+"MULTIPOINT (-118.4753867 34.0483205)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;15;Montana Wb & Amherst Ns
+"MULTIPOINT (-118.4960469 34.0315786)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;15;Montana Wb & Euclid Ns
+"MULTIPOINT (-118.4922846 34.0346845)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;15;Montana Wb & 17Th Ns
+"MULTIPOINT (-118.4658203 34.0002785)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;15;Lincoln Sb & Sunset Ns
+"MULTIPOINT (-118.4753867 34.0483205)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;15;Montana Wb & Amherst Ns
+"MULTIPOINT (-118.4777807 34.0464685)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;16;Montana Wb & Centinela Ns
+"MULTIPOINT (-118.49795210000001 34.0300799)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;16;Montana Wb & 11Th Ns
+"MULTIPOINT (-118.494128 34.033112)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;16;Montana Wb & 15Th Ns
+"MULTIPOINT (-118.4618818 33.998346)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;16;Lincoln Sb & Broadway (Ven) Ns
+"MULTIPOINT (-118.4777807 34.0464685)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;16;Montana Wb & Centinela Ns
+"MULTIPOINT (-118.4803325 34.0446094)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;17;Montana Sb & Stanford Ns
+"MULTIPOINT (-118.5006052 34.0273337)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;17;Lincoln Sb & Montana Fs
+"MULTIPOINT (-118.4960469 34.0315786)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;17;Montana Wb & Euclid Ns
+"MULTIPOINT (-118.4592658 33.9970889)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;17;Lincoln Sb & Palms Ns
+"MULTIPOINT (-118.4803325 34.0446094)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;17;Montana Sb & Stanford Ns
+"MULTIPOINT (-118.4819727 34.0430107)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;18;Montana Wb & Burlingame Ns
+"MULTIPOINT (-118.4991649 34.0261077)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;18;Lincoln Sb & Idaho Fs
+"MULTIPOINT (-118.49795210000001 34.0300799)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;18;Montana Wb & 11Th Ns
+"MULTIPOINT (-118.4578434 33.9964235)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;18;Lincoln Sb & Superba Ns
+"MULTIPOINT (-118.4819727 34.0430107)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;18;Montana Wb & Burlingame Ns
+"MULTIPOINT (-118.484098 34.04129)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;19;Montana Wb & 26Th Fs
+"MULTIPOINT (-118.4975578 34.0247318)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;19;Lincoln Sb & Washington (Sm) Fs
+"MULTIPOINT (-118.5006052 34.0273337)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;19;Lincoln Sb & Montana Fs
+"MULTIPOINT (-118.455083 33.9950811)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;19;Lincoln Sb & Victoria Ns
+"MULTIPOINT (-118.484098 34.04129)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;19;Montana Wb & 26Th Fs
+"MULTIPOINT (-118.4857765 34.0399358)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;20;Montana Wb & 24Th Fs
+"MULTIPOINT (-118.4959083 34.0233323)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;20;Lincoln Sb & California (Sm) Fs
+"MULTIPOINT (-118.4991649 34.0261077)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;20;Lincoln Sb & Idaho Fs
+"MULTIPOINT (-118.4532581 33.9942175)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;20;Lincoln Sb & Venice Ns
+"MULTIPOINT (-118.4857765 34.0399358)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;20;Montana Wb & 24Th Fs
+"MULTIPOINT (-118.4871513 34.038824)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;21;Montana Wb & 22Nd Ns
+"MULTIPOINT (-118.49480130000001 34.0223341)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;21;Lincoln Sb & Wilshire Ns
+"MULTIPOINT (-118.4975578 34.0247318)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;21;Lincoln Sb & Washington (Sm) Fs
+"MULTIPOINT (-118.4509636 33.9930847)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;21;Lincoln Sb & Couer D'Alene Fs
+"MULTIPOINT (-118.4871513 34.038824)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;21;Montana Wb & 22Nd Ns
+"MULTIPOINT (-118.489727 34.036756)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;22;Montana Wb & 20Th Ns
+"MULTIPOINT (-118.4963607 34.0208432)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;22;Wilshire Wb & 6Th Ns
+"MULTIPOINT (-118.4959083 34.0233323)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;22;Lincoln Sb & California (Sm) Fs
+"MULTIPOINT (-118.4475625 33.9900165)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;22;Lincoln Sb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.489727 34.036756)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;22;Montana Wb & 20Th Ns
+"MULTIPOINT (-118.4922846 34.0346845)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;23;Montana Wb & 17Th Ns
+"MULTIPOINT (-118.49763590000001 34.0185201)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;23;4Th Sb & Wilshire Fs
+"MULTIPOINT (-118.49480130000001 34.0223341)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;23;Lincoln Sb & Wilshire Ns
+"MULTIPOINT (-118.4434027 33.9853272)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;23;Lincoln Sb & Marina Pointe Fs
+"MULTIPOINT (-118.4922846 34.0346845)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;23;Montana Wb & 17Th Ns
+"MULTIPOINT (-118.494128 34.033112)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;24;Montana Wb & 15Th Ns
+"MULTIPOINT (-118.4949212 34.0161266)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;24;4Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4963607 34.0208432)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;24;Wilshire Wb & 6Th Ns
+"MULTIPOINT (-118.4412731 33.9826623)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;24;Lincoln Sb & Bali Ns
+"MULTIPOINT (-118.494128 34.033112)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;24;Montana Wb & 15Th Ns
+"MULTIPOINT (-118.4960469 34.0315786)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;25;Montana Wb & Euclid Ns
+"MULTIPOINT (-118.4937627 34.015149)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;25;4Th Sb & Broadway Ns
+"MULTIPOINT (-118.49763590000001 34.0185201)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;25;4Th Sb & Wilshire Fs
+"MULTIPOINT (-118.4388458 33.9801697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;25;Lincoln Sb & Mindanao Fs
+"MULTIPOINT (-118.4960469 34.0315786)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;25;Montana Wb & Euclid Ns
+"MULTIPOINT (-118.49795210000001 34.0300799)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;26;Montana Wb & 11Th Ns
+"MULTIPOINT (-118.4928415 34.0143598)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;26;4Th Sb & Santa Monica Place Co
+"MULTIPOINT (-118.4949212 34.0161266)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;26;4Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4368497 33.9785911)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;26;Lincoln Sb & Fiji Ns
+"MULTIPOINT (-118.49795210000001 34.0300799)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;26;Montana Wb & 11Th Ns
+"MULTIPOINT (-118.5006052 34.0273337)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;27;Lincoln Sb & Montana Fs
+"MULTIPOINT (-118.4888677 34.0109802)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;27;4Th Sb & Civic Center Mb
+"MULTIPOINT (-118.4937627 34.015149)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;27;4Th Sb & Broadway Ns
+"MULTIPOINT (-118.4301408 33.9715259)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;27;Lincoln Sb & Jefferson Fs
+"MULTIPOINT (-118.5006052 34.0273337)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;27;Lincoln Sb & Montana Fs
+"MULTIPOINT (-118.4991649 34.0261077)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;28;Lincoln Sb & Idaho Fs
+"MULTIPOINT (-118.4868643 34.0098576)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;28;Pico Eb & 4Th Fs
+"MULTIPOINT (-118.4928415 34.0143598)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;28;4Th Sb & Santa Monica Place Co
+"MULTIPOINT (-118.4275282 33.9672049)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;28;Lincoln Sb & Bluff Creek Fs
+"MULTIPOINT (-118.4991649 34.0261077)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;28;Lincoln Sb & Idaho Fs
+"MULTIPOINT (-118.4975578 34.0247318)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;29;Lincoln Sb & Washington (Sm) Fs
+"MULTIPOINT (-118.4850866 34.0110306)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;29;Pico Eb & 6Th Ns
+"MULTIPOINT (-118.4888677 34.0109802)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;29;4Th Sb & Civic Center Mb
+"MULTIPOINT (-118.4244522 33.9652241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;29;Lincoln Sb & Lmu Dr Fs
+"MULTIPOINT (-118.4975578 34.0247318)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;29;Lincoln Sb & Washington (Sm) Fs
+"MULTIPOINT (-118.4959083 34.0233323)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;30;Lincoln Sb & California (Sm) Fs
+"MULTIPOINT (-118.482848 34.0120745)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;30;Lincoln Sb & Pico Fs
+"MULTIPOINT (-118.4868643 34.0098576)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;30;Pico Eb & 4Th Fs
+"MULTIPOINT (-118.421688 33.9625019)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;30;Lincoln Sb & 83Rd Fs
+"MULTIPOINT (-118.4959083 34.0233323)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;30;Lincoln Sb & California (Sm) Fs
+"MULTIPOINT (-118.49480130000001 34.0223341)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;31;Lincoln Sb & Wilshire Ns
+"MULTIPOINT (-118.4798017 34.009586)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;31;Lincoln Sb & Pearl Ns
+"MULTIPOINT (-118.4850866 34.0110306)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;31;Pico Eb & 6Th Ns
+"MULTIPOINT (-118.4186035 33.9596936)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;31;Manchester Eb & Lincoln Fs
+"MULTIPOINT (-118.49480130000001 34.0223341)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;31;Lincoln Sb & Wilshire Ns
+"MULTIPOINT (-118.4963607 34.0208432)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;32;Wilshire Wb & 6Th Ns
+"MULTIPOINT (-118.4760538 34.0066088)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;32;Lincoln Sb & Ocean Park Fs
+"MULTIPOINT (-118.482848 34.0120745)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;32;Lincoln Sb & Pico Fs
+"MULTIPOINT (-118.41629570000001 33.9596869)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;32;Manchester Eb & Loyola Fs
+"MULTIPOINT (-118.4963607 34.0208432)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;32;Wilshire Wb & 6Th Ns
+"MULTIPOINT (-118.49763590000001 34.0185201)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;33;4Th Sb & Wilshire Fs
+"MULTIPOINT (-118.4737574 34.0048886)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;33;Lincoln Sb & Ashland Ns
+"MULTIPOINT (-118.4798017 34.009586)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;33;Lincoln Sb & Pearl Ns
+"MULTIPOINT (-118.4138518 33.9597142)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;33;Manchester Eb & Georgetown Ns
+"MULTIPOINT (-118.49763590000001 34.0185201)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;33;4Th Sb & Wilshire Fs
+"MULTIPOINT (-118.4949212 34.0161266)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;34;4Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.471355 34.00313)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;34;Lincoln Sb & Navy Ns
+"MULTIPOINT (-118.4760538 34.0066088)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;34;Lincoln Sb & Ocean Park Fs
+"MULTIPOINT (-118.40960320000001 33.9597288)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;34;Manchester Eb & Mc Connell Ns
+"MULTIPOINT (-118.4949212 34.0161266)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;34;4Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4937627 34.015149)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;35;4Th Sb & Broadway Ns
+"MULTIPOINT (-118.467536 34.0011042)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;35;Lincoln Sb & Rose Fs
+"MULTIPOINT (-118.4737574 34.0048886)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;35;Lincoln Sb & Ashland Ns
+"MULTIPOINT (-118.4040303 33.959709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;35;Manchester Eb & Emerson Fs
+"MULTIPOINT (-118.4937627 34.015149)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;35;4Th Sb & Broadway Ns
+"MULTIPOINT (-118.4928415 34.0143598)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;36;4Th Sb & Santa Monica Place Co
+"MULTIPOINT (-118.4658203 34.0002785)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;36;Lincoln Sb & Sunset Ns
+"MULTIPOINT (-118.471355 34.00313)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;36;Lincoln Sb & Navy Ns
+"MULTIPOINT (-118.4005751 33.959751)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;36;Manchester Eb & Kentwood Ns
+"MULTIPOINT (-118.4928415 34.0143598)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;36;4Th Sb & Santa Monica Place Co
+"MULTIPOINT (-118.4888677 34.0109802)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;37;4Th Sb & Civic Center Mb
+"MULTIPOINT (-118.4618818 33.998346)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;37;Lincoln Sb & Broadway (Ven) Ns
+"MULTIPOINT (-118.467536 34.0011042)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;37;Lincoln Sb & Rose Fs
+"MULTIPOINT (-118.396618 33.9597457)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;37;Manchester Eb & Sepulveda Ns
+"MULTIPOINT (-118.4888677 34.0109802)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;37;4Th Sb & Civic Center Mb
+"MULTIPOINT (-118.4868643 34.0098576)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;38;Pico Eb & 4Th Fs
+"MULTIPOINT (-118.4592658 33.9970889)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;38;Lincoln Sb & Palms Ns
+"MULTIPOINT (-118.4658203 34.0002785)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;38;Lincoln Sb & Sunset Ns
+"MULTIPOINT (-118.3963836 33.956871)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;38;Sepulveda Sb & La Tijera Fs
+"MULTIPOINT (-118.4868643 34.0098576)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;38;Pico Eb & 4Th Fs
+"MULTIPOINT (-118.4850866 34.0110306)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;39;Pico Eb & 6Th Ns
+"MULTIPOINT (-118.4578434 33.9964235)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;39;Lincoln Sb & Superba Ns
+"MULTIPOINT (-118.4618818 33.998346)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;39;Lincoln Sb & Broadway (Ven) Ns
+"MULTIPOINT (-118.3968865 33.9487164)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;39;96Th Wb & Alverstone Ns
+"MULTIPOINT (-118.4850866 34.0110306)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;39;Pico Eb & 6Th Ns
+"MULTIPOINT (-118.482848 34.0120745)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;40;Lincoln Sb & Pico Fs
+"MULTIPOINT (-118.455083 33.9950811)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;40;Lincoln Sb & Victoria Ns
+"MULTIPOINT (-118.4592658 33.9970889)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;40;Lincoln Sb & Palms Ns
+"MULTIPOINT (-118.3919264 33.9491241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;40;Lax Transit Center Bay 11
+"MULTIPOINT (-118.482848 34.0120745)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;40;Lincoln Sb & Pico Fs
+"MULTIPOINT (-118.4798017 34.009586)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;41;Lincoln Sb & Pearl Ns
+"MULTIPOINT (-118.4532581 33.9942175)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;41;Lincoln Sb & Venice Ns
+"MULTIPOINT (-118.4578434 33.9964235)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;41;Lincoln Sb & Superba Ns
+"MULTIPOINT (-118.3862329 33.9493281)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;41;96Th Eb & Airport Ns
+"MULTIPOINT (-118.4798017 34.009586)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;41;Lincoln Sb & Pearl Ns
+"MULTIPOINT (-118.4760538 34.0066088)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;42;Lincoln Sb & Ocean Park Fs
+"MULTIPOINT (-118.4509636 33.9930847)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;42;Lincoln Sb & Couer D'Alene Fs
+"MULTIPOINT (-118.455083 33.9950811)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;42;Lincoln Sb & Victoria Ns
+"MULTIPOINT (-118.3861461 33.9470354)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;42;Airport Sb & 98Th Fs
+"MULTIPOINT (-118.4760538 34.0066088)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;42;Lincoln Sb & Ocean Park Fs
+"MULTIPOINT (-118.4737574 34.0048886)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;43;Lincoln Sb & Ashland Ns
+"MULTIPOINT (-118.4475625 33.9900165)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;43;Lincoln Sb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.4532581 33.9942175)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;43;Lincoln Sb & Venice Ns
+"MULTIPOINT (-118.3856869 33.9452724)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;43;Century Eb & Airport Fs
+"MULTIPOINT (-118.4737574 34.0048886)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;43;Lincoln Sb & Ashland Ns
+"MULTIPOINT (-118.471355 34.00313)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;44;Lincoln Sb & Navy Ns
+"MULTIPOINT (-118.4434027 33.9853272)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;44;Lincoln Sb & Marina Pointe Fs
+"MULTIPOINT (-118.4509636 33.9930847)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;44;Lincoln Sb & Couer D'Alene Fs
+"MULTIPOINT (-118.3818371 33.945294)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;44;Century Eb & International Ns
+"MULTIPOINT (-118.471355 34.00313)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;44;Lincoln Sb & Navy Ns
+"MULTIPOINT (-118.467536 34.0011042)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;45;Lincoln Sb & Rose Fs
+"MULTIPOINT (-118.4412731 33.9826623)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;45;Lincoln Sb & Bali Ns
+"MULTIPOINT (-118.4475625 33.9900165)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;45;Lincoln Sb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.3786806 33.9453709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;45;Century Eb & Aviation Ns
+"MULTIPOINT (-118.467536 34.0011042)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;45;Lincoln Sb & Rose Fs
+"MULTIPOINT (-118.4658203 34.0002785)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;46;Lincoln Sb & Sunset Ns
+"MULTIPOINT (-118.4388458 33.9801697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;46;Lincoln Sb & Mindanao Fs
+"MULTIPOINT (-118.4434027 33.9853272)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;46;Lincoln Sb & Marina Pointe Fs
+"MULTIPOINT (-118.3785698 33.9421697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;46;Aviation Sb & 104Th Ns
+"MULTIPOINT (-118.4658203 34.0002785)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;46;Lincoln Sb & Sunset Ns
+"MULTIPOINT (-118.4618818 33.998346)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;47;Lincoln Sb & Broadway (Ven) Ns
+"MULTIPOINT (-118.4368497 33.9785911)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;47;Lincoln Sb & Fiji Ns
+"MULTIPOINT (-118.4412731 33.9826623)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;47;Lincoln Sb & Bali Ns
+"MULTIPOINT (-118.3785702 33.9347155)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;47;Aviation Sb & 111Th Ns
+"MULTIPOINT (-118.4618818 33.998346)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;47;Lincoln Sb & Broadway (Ven) Ns
+"MULTIPOINT (-118.4592658 33.9970889)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;48;Lincoln Sb & Palms Ns
+"MULTIPOINT (-118.4301408 33.9715259)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;48;Lincoln Sb & Jefferson Fs
+"MULTIPOINT (-118.4388458 33.9801697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;48;Lincoln Sb & Mindanao Fs
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581287;48;Green Line Station
+"MULTIPOINT (-118.4592658 33.9970889)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;48;Lincoln Sb & Palms Ns
+"MULTIPOINT (-118.4578434 33.9964235)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;49;Lincoln Sb & Superba Ns
+"MULTIPOINT (-118.4275282 33.9672049)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;49;Lincoln Sb & Bluff Creek Fs
+"MULTIPOINT (-118.4368497 33.9785911)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;49;Lincoln Sb & Fiji Ns
+"MULTIPOINT (-118.4578434 33.9964235)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;49;Lincoln Sb & Superba Ns
+"MULTIPOINT (-118.455083 33.9950811)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;50;Lincoln Sb & Victoria Ns
+"MULTIPOINT (-118.4244522 33.9652241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;50;Lincoln Sb & Lmu Dr Fs
+"MULTIPOINT (-118.4301408 33.9715259)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;50;Lincoln Sb & Jefferson Fs
+"MULTIPOINT (-118.455083 33.9950811)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;50;Lincoln Sb & Victoria Ns
+"MULTIPOINT (-118.4532581 33.9942175)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;51;Lincoln Sb & Venice Ns
+"MULTIPOINT (-118.421688 33.9625019)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;51;Lincoln Sb & 83Rd Fs
+"MULTIPOINT (-118.4275282 33.9672049)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;51;Lincoln Sb & Bluff Creek Fs
+"MULTIPOINT (-118.4532581 33.9942175)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;51;Lincoln Sb & Venice Ns
+"MULTIPOINT (-118.4509636 33.9930847)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;52;Lincoln Sb & Couer D'Alene Fs
+"MULTIPOINT (-118.4186035 33.9596936)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;52;Manchester Eb & Lincoln Fs
+"MULTIPOINT (-118.4244522 33.9652241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;52;Lincoln Sb & Lmu Dr Fs
+"MULTIPOINT (-118.4509636 33.9930847)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;52;Lincoln Sb & Couer D'Alene Fs
+"MULTIPOINT (-118.4475625 33.9900165)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;53;Lincoln Sb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.41629570000001 33.9596869)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;53;Manchester Eb & Loyola Fs
+"MULTIPOINT (-118.421688 33.9625019)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;53;Lincoln Sb & 83Rd Fs
+"MULTIPOINT (-118.4475625 33.9900165)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;53;Lincoln Sb & Washington Bl (Ven) Fs
+"MULTIPOINT (-118.4434027 33.9853272)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;54;Lincoln Sb & Marina Pointe Fs
+"MULTIPOINT (-118.4138518 33.9597142)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;54;Manchester Eb & Georgetown Ns
+"MULTIPOINT (-118.4186035 33.9596936)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;54;Manchester Eb & Lincoln Fs
+"MULTIPOINT (-118.4434027 33.9853272)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;54;Lincoln Sb & Marina Pointe Fs
+"MULTIPOINT (-118.4412731 33.9826623)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;55;Lincoln Sb & Bali Ns
+"MULTIPOINT (-118.40960320000001 33.9597288)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;55;Manchester Eb & Mc Connell Ns
+"MULTIPOINT (-118.41629570000001 33.9596869)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;55;Manchester Eb & Loyola Fs
+"MULTIPOINT (-118.4412731 33.9826623)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;55;Lincoln Sb & Bali Ns
+"MULTIPOINT (-118.4388458 33.9801697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;56;Lincoln Sb & Mindanao Fs
+"MULTIPOINT (-118.4040303 33.959709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;56;Manchester Eb & Emerson Fs
+"MULTIPOINT (-118.4138518 33.9597142)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;56;Manchester Eb & Georgetown Ns
+"MULTIPOINT (-118.4388458 33.9801697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;56;Lincoln Sb & Mindanao Fs
+"MULTIPOINT (-118.4368497 33.9785911)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;57;Lincoln Sb & Fiji Ns
+"MULTIPOINT (-118.4005751 33.959751)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;57;Manchester Eb & Kentwood Ns
+"MULTIPOINT (-118.40960320000001 33.9597288)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;57;Manchester Eb & Mc Connell Ns
+"MULTIPOINT (-118.4368497 33.9785911)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;57;Lincoln Sb & Fiji Ns
+"MULTIPOINT (-118.4301408 33.9715259)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;58;Lincoln Sb & Jefferson Fs
+"MULTIPOINT (-118.396618 33.9597457)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;58;Manchester Eb & Sepulveda Ns
+"MULTIPOINT (-118.4040303 33.959709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;58;Manchester Eb & Emerson Fs
+"MULTIPOINT (-118.4301408 33.9715259)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;58;Lincoln Sb & Jefferson Fs
+"MULTIPOINT (-118.4275282 33.9672049)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;59;Lincoln Sb & Bluff Creek Fs
+"MULTIPOINT (-118.3963836 33.956871)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;59;Sepulveda Sb & La Tijera Fs
+"MULTIPOINT (-118.4005751 33.959751)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;59;Manchester Eb & Kentwood Ns
+"MULTIPOINT (-118.4275282 33.9672049)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;59;Lincoln Sb & Bluff Creek Fs
+"MULTIPOINT (-118.4244522 33.9652241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;60;Lincoln Sb & Lmu Dr Fs
+"MULTIPOINT (-118.3968865 33.9487164)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;60;96Th Wb & Alverstone Ns
+"MULTIPOINT (-118.396618 33.9597457)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;60;Manchester Eb & Sepulveda Ns
+"MULTIPOINT (-118.4244522 33.9652241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;60;Lincoln Sb & Lmu Dr Fs
+"MULTIPOINT (-118.421688 33.9625019)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;61;Lincoln Sb & 83Rd Fs
+"MULTIPOINT (-118.3919264 33.9491241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;61;Lax Transit Center Bay 11
+"MULTIPOINT (-118.3963836 33.956871)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;61;Sepulveda Sb & La Tijera Fs
+"MULTIPOINT (-118.421688 33.9625019)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;61;Lincoln Sb & 83Rd Fs
+"MULTIPOINT (-118.4186035 33.9596936)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;62;Manchester Eb & Lincoln Fs
+"MULTIPOINT (-118.3862329 33.9493281)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;62;96Th Eb & Airport Ns
+"MULTIPOINT (-118.3968865 33.9487164)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;62;96Th Wb & Alverstone Ns
+"MULTIPOINT (-118.4186035 33.9596936)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;62;Manchester Eb & Lincoln Fs
+"MULTIPOINT (-118.41629570000001 33.9596869)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;63;Manchester Eb & Loyola Fs
+"MULTIPOINT (-118.3861461 33.9470354)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;63;Airport Sb & 98Th Fs
+"MULTIPOINT (-118.3919264 33.9491241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;63;Lax Transit Center Bay 11
+"MULTIPOINT (-118.41629570000001 33.9596869)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;63;Manchester Eb & Loyola Fs
+"MULTIPOINT (-118.4138518 33.9597142)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;64;Manchester Eb & Georgetown Ns
+"MULTIPOINT (-118.3856869 33.9452724)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;64;Century Eb & Airport Fs
+"MULTIPOINT (-118.3862329 33.9493281)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;64;96Th Eb & Airport Ns
+"MULTIPOINT (-118.4138518 33.9597142)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;64;Manchester Eb & Georgetown Ns
+"MULTIPOINT (-118.40960320000001 33.9597288)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;65;Manchester Eb & Mc Connell Ns
+"MULTIPOINT (-118.3818371 33.945294)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;65;Century Eb & International Ns
+"MULTIPOINT (-118.3861461 33.9470354)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;65;Airport Sb & 98Th Fs
+"MULTIPOINT (-118.40960320000001 33.9597288)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;65;Manchester Eb & Mc Connell Ns
+"MULTIPOINT (-118.4040303 33.959709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;66;Manchester Eb & Emerson Fs
+"MULTIPOINT (-118.3786806 33.9453709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;66;Century Eb & Aviation Ns
+"MULTIPOINT (-118.3856869 33.9452724)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;66;Century Eb & Airport Fs
+"MULTIPOINT (-118.4040303 33.959709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;66;Manchester Eb & Emerson Fs
+"MULTIPOINT (-118.4005751 33.959751)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;67;Manchester Eb & Kentwood Ns
+"MULTIPOINT (-118.3785698 33.9421697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;67;Aviation Sb & 104Th Ns
+"MULTIPOINT (-118.3818371 33.945294)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;67;Century Eb & International Ns
+"MULTIPOINT (-118.4005751 33.959751)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;67;Manchester Eb & Kentwood Ns
+"MULTIPOINT (-118.396618 33.9597457)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;68;Manchester Eb & Sepulveda Ns
+"MULTIPOINT (-118.3785702 33.9347155)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;68;Aviation Sb & 111Th Ns
+"MULTIPOINT (-118.3786806 33.9453709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;68;Century Eb & Aviation Ns
+"MULTIPOINT (-118.396618 33.9597457)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;68;Manchester Eb & Sepulveda Ns
+"MULTIPOINT (-118.3963836 33.956871)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;69;Sepulveda Sb & La Tijera Fs
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;585172;69;Green Line Station
+"MULTIPOINT (-118.3785698 33.9421697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;69;Aviation Sb & 104Th Ns
+"MULTIPOINT (-118.3963836 33.956871)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;69;Sepulveda Sb & La Tijera Fs
+"MULTIPOINT (-118.3968865 33.9487164)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;70;96Th Wb & Alverstone Ns
+"MULTIPOINT (-118.3785702 33.9347155)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;70;Aviation Sb & 111Th Ns
+"MULTIPOINT (-118.3968865 33.9487164)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;70;96Th Wb & Alverstone Ns
+"MULTIPOINT (-118.3919264 33.9491241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;71;Lax Transit Center Bay 11
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581544;71;Green Line Station
+"MULTIPOINT (-118.3919264 33.9491241)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;71;Lax Transit Center Bay 11
+"MULTIPOINT (-118.3862329 33.9493281)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;72;96Th Eb & Airport Ns
+"MULTIPOINT (-118.3862329 33.9493281)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;72;96Th Eb & Airport Ns
+"MULTIPOINT (-118.3861461 33.9470354)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;73;Airport Sb & 98Th Fs
+"MULTIPOINT (-118.3861461 33.9470354)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;73;Airport Sb & 98Th Fs
+"MULTIPOINT (-118.3856869 33.9452724)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;74;Century Eb & Airport Fs
+"MULTIPOINT (-118.3856869 33.9452724)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;74;Century Eb & Airport Fs
+"MULTIPOINT (-118.3818371 33.945294)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;75;Century Eb & International Ns
+"MULTIPOINT (-118.3818371 33.945294)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;75;Century Eb & International Ns
+"MULTIPOINT (-118.3786806 33.9453709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;76;Century Eb & Aviation Ns
+"MULTIPOINT (-118.3786806 33.9453709)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;76;Century Eb & Aviation Ns
+"MULTIPOINT (-118.3785698 33.9421697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;77;Aviation Sb & 104Th Ns
+"MULTIPOINT (-118.3785698 33.9421697)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;77;Aviation Sb & 104Th Ns
+"MULTIPOINT (-118.3785702 33.9347155)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;78;Aviation Sb & 111Th Ns
+"MULTIPOINT (-118.3785702 33.9347155)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;78;Aviation Sb & 111Th Ns
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581289;79;Green Line Station
+"MULTIPOINT (-118.37639950000001 33.9295298)";3;Montana Ave - Lincoln Blvd;1;Line 3 Green Line Station;3 - Montana Ave - Lincoln Blvd - 1 - Line 3 Green Line Station;581545;79;Green Line Station

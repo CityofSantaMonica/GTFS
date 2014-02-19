@@ -1,0 +1,997 @@
+WKT;route_short_name;route_long_name;direction_id;trip_headsign;headsign;trip_id;stop_sequence;stop_name
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;1;Windward Eb & Main Ns
+"MULTIPOINT (-118.4713588 33.9886584)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;2;Main Nb & Market Ns
+"MULTIPOINT (-118.4726017 33.9903138)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;3;Main Nb & Westminster Fs
+"MULTIPOINT (-118.47390110000001 33.9921515)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;4;Main Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4764201 33.9947943)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;5;Main Nb & Sunset Fs
+"MULTIPOINT (-118.4774659 33.9959789)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;6;Main Nb & Rose Ns
+"MULTIPOINT (-118.4794421 33.9979309)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;7;Main Nb & Marine Ns
+"MULTIPOINT (-118.4808992 33.9994909)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;8;Main Nb & Ashland Ns
+"MULTIPOINT (-118.48227730000001 34.0008843)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;9;Main Nb & Hill Ns
+"MULTIPOINT (-118.48397110000001 34.0025143)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;10;Main Nb & Ocean Park Fs
+"MULTIPOINT (-118.4855212 34.0040345)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;11;Main Nb & Hollister Ns
+"MULTIPOINT (-118.48716760000001 34.0055477)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;12;Main Nb & Pacific Ns
+"MULTIPOINT (-118.4887528 34.0070903)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;13;Main Nb & Bay Ns
+"MULTIPOINT (-118.4908168 34.00812)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;14;Ocean Nb & Pico Fs
+"MULTIPOINT (-118.494504 34.011234)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;15;Ocean Nb & Colorado Ns
+"MULTIPOINT (-118.4961375 34.0126019)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;16;Ocean Nb & Broadway Ns
+"MULTIPOINT (-118.4977641 34.014009)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;17;Ocean Nb & Santa Monica Ns
+"MULTIPOINT (-118.4963585 34.0154397)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;18;Santa Monica Eb & 3Rd Ns
+"MULTIPOINT (-118.4958073 34.0158942)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;19;Santa Monica Eb & 3Rd Fs
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;20;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 Santa Monica and 6th ONLY;1 - Santa Monica Blvd - Ucla - 0 - Line 1 Santa Monica and 6th ONLY;580569;21;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;1;Windward Eb & Main Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;1;Windward Eb & Main Ns
+"MULTIPOINT (-118.4606584 33.9988549)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;1;California Wb & Frederick Fs
+"MULTIPOINT (-118.4468006 33.9971824)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;1;Venice Wb & Walgrove Fs
+"MULTIPOINT (-118.4468006 33.9971824)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;1;Venice Wb & Walgrove Fs
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;1;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;1;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.4612755 33.9976321)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;1;California Wb & Lincoln Fs
+"MULTIPOINT (-118.4713588 33.9886584)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;2;Main Nb & Market Ns
+"MULTIPOINT (-118.4713588 33.9886584)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;2;Main Nb & Market Ns
+"MULTIPOINT (-118.4612755 33.9976321)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;2;California Wb & Lincoln Fs
+"MULTIPOINT (-118.44914540000001 33.9960158)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;2;Venice Wb & Glyndon Ns
+"MULTIPOINT (-118.44914540000001 33.9960158)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;2;Venice Wb & Glyndon Ns
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;2;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;2;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4621713 33.9963376)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;2;California Wb & Linden Fs
+"MULTIPOINT (-118.4726017 33.9903138)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;3;Main Nb & Westminster Fs
+"MULTIPOINT (-118.4726017 33.9903138)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;3;Main Nb & Westminster Fs
+"MULTIPOINT (-118.4621713 33.9963376)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;3;California Wb & Linden Fs
+"MULTIPOINT (-118.45262 33.9942998)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;3;Venice Wb & Lincoln Ns
+"MULTIPOINT (-118.45262 33.9942998)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;3;Venice Wb & Lincoln Ns
+"MULTIPOINT (-118.49153680000001 34.0193168)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;3;Santa Monica Eb & Lincoln Ns
+"MULTIPOINT (-118.49153680000001 34.0193168)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;3;Santa Monica Eb & Lincoln Ns
+"MULTIPOINT (-118.4631706 33.9949202)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;3;California Wb & Oakwood Ns
+"MULTIPOINT (-118.47390110000001 33.9921515)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;4;Main Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.47390110000001 33.9921515)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;4;Main Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4631706 33.9949202)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;4;California Wb & Oakwood Ns
+"MULTIPOINT (-118.4546739 33.9950728)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;4;Lincoln Nb & Victoria Ns
+"MULTIPOINT (-118.4546739 33.9950728)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;4;Lincoln Nb & Victoria Ns
+"MULTIPOINT (-118.4886934 34.0215978)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;4;Santa Monica Eb & 11Th Ns
+"MULTIPOINT (-118.4886934 34.0215978)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;4;Santa Monica Eb & 11Th Ns
+"MULTIPOINT (-118.4644084 33.9931517)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;4;California Wb & Shell Ns
+"MULTIPOINT (-118.4764201 33.9947943)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;5;Main Nb & Sunset Fs
+"MULTIPOINT (-118.4764201 33.9947943)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;5;Main Nb & Sunset Fs
+"MULTIPOINT (-118.4644084 33.9931517)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;5;California Wb & Shell Ns
+"MULTIPOINT (-118.45727220000001 33.996357)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;5;Lincoln Nb & Superba Ns
+"MULTIPOINT (-118.45727220000001 33.996357)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;5;Lincoln Nb & Superba Ns
+"MULTIPOINT (-118.4859055 34.0238373)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;5;Santa Monica Eb & 14Th Ns
+"MULTIPOINT (-118.4859055 34.0238373)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;5;Santa Monica Eb & 14Th Ns
+"MULTIPOINT (-118.4655361 33.9914545)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;5;California Wb & 6Th Ave (Venice) Ns
+"MULTIPOINT (-118.4774659 33.9959789)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;6;Main Nb & Rose Ns
+"MULTIPOINT (-118.4774659 33.9959789)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;6;Main Nb & Rose Ns
+"MULTIPOINT (-118.4655361 33.9914545)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;6;California Wb & 6Th Ave (Venice) Ns
+"MULTIPOINT (-118.4612755 33.9976321)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;6;California Wb & Lincoln Fs
+"MULTIPOINT (-118.4612755 33.9976321)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;6;California Wb & Lincoln Fs
+"MULTIPOINT (-118.4839319 34.025465)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;6;Santa Monica Eb & 16Th Ns
+"MULTIPOINT (-118.4839319 34.025465)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;6;Santa Monica Eb & 16Th Ns
+"MULTIPOINT (-118.4680856 33.9912783)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;6;Abbot Kinney Wb & Santa Clara Ns
+"MULTIPOINT (-118.4794421 33.9979309)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;7;Main Nb & Marine Ns
+"MULTIPOINT (-118.4794421 33.9979309)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;7;Main Nb & Marine Ns
+"MULTIPOINT (-118.4680856 33.9912783)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;7;Abbot Kinney Wb & Santa Clara Ns
+"MULTIPOINT (-118.4621713 33.9963376)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;7;California Wb & Linden Fs
+"MULTIPOINT (-118.4621713 33.9963376)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;7;California Wb & Linden Fs
+"MULTIPOINT (-118.4820408 34.0270282)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;7;Santa Monica Eb & 18Th Ns
+"MULTIPOINT (-118.4820408 34.0270282)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;7;Santa Monica Eb & 18Th Ns
+"MULTIPOINT (-118.4708499 33.9915903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;7;Westminster Sb & Abbot Kinney Fs
+"MULTIPOINT (-118.4808992 33.9994909)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;8;Main Nb & Ashland Ns
+"MULTIPOINT (-118.4808992 33.9994909)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;8;Main Nb & Ashland Ns
+"MULTIPOINT (-118.4708499 33.9915903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;8;Westminster Sb & Abbot Kinney Fs
+"MULTIPOINT (-118.4631706 33.9949202)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;8;California Wb & Oakwood Ns
+"MULTIPOINT (-118.4631706 33.9949202)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;8;California Wb & Oakwood Ns
+"MULTIPOINT (-118.4797747 34.0290577)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;8;Santa Monica Eb & 20Th Fs
+"MULTIPOINT (-118.4797747 34.0290577)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;8;Santa Monica Eb & 20Th Fs
+"MULTIPOINT (-118.4694647 33.9893968)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;8;Riviera Sb & Windward Ns
+"MULTIPOINT (-118.48227730000001 34.0008843)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;9;Main Nb & Hill Ns
+"MULTIPOINT (-118.48227730000001 34.0008843)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;9;Main Nb & Hill Ns
+"MULTIPOINT (-118.4694647 33.9893968)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;9;Riviera Sb & Windward Ns
+"MULTIPOINT (-118.4644084 33.9931517)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;9;California Wb & Shell Ns
+"MULTIPOINT (-118.4644084 33.9931517)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;9;California Wb & Shell Ns
+"MULTIPOINT (-118.4780658 34.0301831)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;9;Santa Monica Eb & 22Nd Fs
+"MULTIPOINT (-118.4780658 34.0301831)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;9;Santa Monica Eb & 22Nd Fs
+"MULTIPOINT (-118.4713588 33.9886584)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;9;Main Nb & Market Ns
+"MULTIPOINT (-118.48397110000001 34.0025143)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;10;Main Nb & Ocean Park Fs
+"MULTIPOINT (-118.48397110000001 34.0025143)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;10;Main Nb & Ocean Park Fs
+"MULTIPOINT (-118.4713588 33.9886584)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;10;Main Nb & Market Ns
+"MULTIPOINT (-118.4655361 33.9914545)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;10;California Wb & 6Th Ave (Venice) Ns
+"MULTIPOINT (-118.4655361 33.9914545)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;10;California Wb & 6Th Ave (Venice) Ns
+"MULTIPOINT (-118.4766338 34.0313688)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;10;Santa Monica Eb & Cloverfield Fs
+"MULTIPOINT (-118.4766338 34.0313688)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;10;Santa Monica Eb & Cloverfield Fs
+"MULTIPOINT (-118.4726017 33.9903138)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;10;Main Nb & Westminster Fs
+"MULTIPOINT (-118.4855212 34.0040345)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;11;Main Nb & Hollister Ns
+"MULTIPOINT (-118.4855212 34.0040345)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;11;Main Nb & Hollister Ns
+"MULTIPOINT (-118.4726017 33.9903138)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;11;Main Nb & Westminster Fs
+"MULTIPOINT (-118.4680856 33.9912783)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;11;Abbot Kinney Wb & Santa Clara Ns
+"MULTIPOINT (-118.4680856 33.9912783)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;11;Abbot Kinney Wb & Santa Clara Ns
+"MULTIPOINT (-118.4744153 34.0331431)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;11;Santa Monica Eb & 26Th Ns
+"MULTIPOINT (-118.4744153 34.0331431)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;11;Santa Monica Eb & 26Th Ns
+"MULTIPOINT (-118.47390110000001 33.9921515)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;11;Main Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.48716760000001 34.0055477)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;12;Main Nb & Pacific Ns
+"MULTIPOINT (-118.48716760000001 34.0055477)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;12;Main Nb & Pacific Ns
+"MULTIPOINT (-118.47390110000001 33.9921515)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;12;Main Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4708499 33.9915903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;12;Westminster Sb & Abbot Kinney Fs
+"MULTIPOINT (-118.4708499 33.9915903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;12;Westminster Sb & Abbot Kinney Fs
+"MULTIPOINT (-118.47116370000001 34.0357233)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;12;Santa Monica Eb & Yale Fs
+"MULTIPOINT (-118.47116370000001 34.0357233)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;12;Santa Monica Eb & Yale Fs
+"MULTIPOINT (-118.4764201 33.9947943)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;12;Main Nb & Sunset Fs
+"MULTIPOINT (-118.4887528 34.0070903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;13;Main Nb & Bay Ns
+"MULTIPOINT (-118.4887528 34.0070903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;13;Main Nb & Bay Ns
+"MULTIPOINT (-118.4764201 33.9947943)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;13;Main Nb & Sunset Fs
+"MULTIPOINT (-118.4694647 33.9893968)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;13;Riviera Sb & Windward Ns
+"MULTIPOINT (-118.4694647 33.9893968)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;13;Riviera Sb & Windward Ns
+"MULTIPOINT (-118.4696263 34.0369583)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;13;Santa Monica Eb & Berkeley Ns
+"MULTIPOINT (-118.4696263 34.0369583)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;13;Santa Monica Eb & Berkeley Ns
+"MULTIPOINT (-118.4774659 33.9959789)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;13;Main Nb & Rose Ns
+"MULTIPOINT (-118.4908168 34.00812)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;14;Ocean Nb & Pico Fs
+"MULTIPOINT (-118.4908168 34.00812)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;14;Ocean Nb & Pico Fs
+"MULTIPOINT (-118.4774659 33.9959789)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;14;Main Nb & Rose Ns
+"MULTIPOINT (-118.4713588 33.9886584)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;14;Main Nb & Market Ns
+"MULTIPOINT (-118.4713588 33.9886584)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;14;Main Nb & Market Ns
+"MULTIPOINT (-118.4672936 34.0386819)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;14;Santa Monica Eb & Centinela Fs
+"MULTIPOINT (-118.4672936 34.0386819)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;14;Santa Monica Eb & Centinela Fs
+"MULTIPOINT (-118.4794421 33.9979309)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;14;Main Nb & Marine Ns
+"MULTIPOINT (-118.494504 34.011234)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;15;Ocean Nb & Colorado Ns
+"MULTIPOINT (-118.494504 34.011234)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;15;Ocean Nb & Colorado Ns
+"MULTIPOINT (-118.4794421 33.9979309)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;15;Main Nb & Marine Ns
+"MULTIPOINT (-118.4726017 33.9903138)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;15;Main Nb & Westminster Fs
+"MULTIPOINT (-118.4726017 33.9903138)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;15;Main Nb & Westminster Fs
+"MULTIPOINT (-118.4655439 34.0395065)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;15;Santa Monica Eb & Wellesley Ns
+"MULTIPOINT (-118.4655439 34.0395065)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;15;Santa Monica Eb & Wellesley Ns
+"MULTIPOINT (-118.4808992 33.9994909)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;15;Main Nb & Ashland Ns
+"MULTIPOINT (-118.4961375 34.0126019)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;16;Ocean Nb & Broadway Ns
+"MULTIPOINT (-118.4961375 34.0126019)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;16;Ocean Nb & Broadway Ns
+"MULTIPOINT (-118.4808992 33.9994909)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;16;Main Nb & Ashland Ns
+"MULTIPOINT (-118.47390110000001 33.9921515)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;16;Main Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.47390110000001 33.9921515)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;16;Main Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4634234 34.0403836)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;16;Santa Monica Eb & Bundy Ns
+"MULTIPOINT (-118.4634234 34.0403836)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;16;Santa Monica Eb & Bundy Ns
+"MULTIPOINT (-118.48227730000001 34.0008843)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;16;Main Nb & Hill Ns
+"MULTIPOINT (-118.4977641 34.014009)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;17;Ocean Nb & Santa Monica Ns
+"MULTIPOINT (-118.4977641 34.014009)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;17;Ocean Nb & Santa Monica Ns
+"MULTIPOINT (-118.48227730000001 34.0008843)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;17;Main Nb & Hill Ns
+"MULTIPOINT (-118.4764201 33.9947943)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;17;Main Nb & Sunset Fs
+"MULTIPOINT (-118.4764201 33.9947943)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;17;Main Nb & Sunset Fs
+"MULTIPOINT (-118.4614769 34.0412411)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;17;Santa Monica Eb & Brockton Ns
+"MULTIPOINT (-118.4614769 34.0412411)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;17;Santa Monica Eb & Brockton Ns
+"MULTIPOINT (-118.48397110000001 34.0025143)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;17;Main Nb & Ocean Park Fs
+"MULTIPOINT (-118.4963585 34.0154397)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;18;Santa Monica Eb & 3Rd Ns
+"MULTIPOINT (-118.4963585 34.0154397)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;18;Santa Monica Eb & 3Rd Ns
+"MULTIPOINT (-118.48397110000001 34.0025143)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;18;Main Nb & Ocean Park Fs
+"MULTIPOINT (-118.4774659 33.9959789)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;18;Main Nb & Rose Ns
+"MULTIPOINT (-118.4774659 33.9959789)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;18;Main Nb & Rose Ns
+"MULTIPOINT (-118.45928 34.042231)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;18;Santa Monica Eb & Westgate Ns
+"MULTIPOINT (-118.45928 34.042231)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;18;Santa Monica Eb & Westgate Ns
+"MULTIPOINT (-118.4855212 34.0040345)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;18;Main Nb & Hollister Ns
+"MULTIPOINT (-118.4958073 34.0158942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;19;Santa Monica Eb & 3Rd Fs
+"MULTIPOINT (-118.4958073 34.0158942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;19;Santa Monica Eb & 3Rd Fs
+"MULTIPOINT (-118.4855212 34.0040345)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;19;Main Nb & Hollister Ns
+"MULTIPOINT (-118.4794421 33.9979309)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;19;Main Nb & Marine Ns
+"MULTIPOINT (-118.4794421 33.9979309)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;19;Main Nb & Marine Ns
+"MULTIPOINT (-118.4561394 34.0436241)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;19;Santa Monica Eb & Barrington Ns
+"MULTIPOINT (-118.4561394 34.0436241)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;19;Santa Monica Eb & Barrington Ns
+"MULTIPOINT (-118.48716760000001 34.0055477)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;19;Main Nb & Pacific Ns
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;20;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;20;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.48716760000001 34.0055477)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;20;Main Nb & Pacific Ns
+"MULTIPOINT (-118.4808992 33.9994909)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;20;Main Nb & Ashland Ns
+"MULTIPOINT (-118.4808992 33.9994909)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;20;Main Nb & Ashland Ns
+"MULTIPOINT (-118.4535594 34.0447942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;20;Santa Monica Eb & Federal Fs
+"MULTIPOINT (-118.4535594 34.0447942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;20;Santa Monica Eb & Federal Fs
+"MULTIPOINT (-118.4887528 34.0070903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;20;Main Nb & Bay Ns
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;21;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;21;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4887528 34.0070903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;21;Main Nb & Bay Ns
+"MULTIPOINT (-118.48227730000001 34.0008843)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;21;Main Nb & Hill Ns
+"MULTIPOINT (-118.48227730000001 34.0008843)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;21;Main Nb & Hill Ns
+"MULTIPOINT (-118.4496966 34.0460356)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;21;Santa Monica Eb & Corinth Ns
+"MULTIPOINT (-118.4496966 34.0460356)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;21;Santa Monica Eb & Corinth Ns
+"MULTIPOINT (-118.4908168 34.00812)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;21;Ocean Nb & Pico Fs
+"MULTIPOINT (-118.49153680000001 34.0193168)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;22;Santa Monica Eb & Lincoln Ns
+"MULTIPOINT (-118.49153680000001 34.0193168)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;22;Santa Monica Eb & Lincoln Ns
+"MULTIPOINT (-118.4908168 34.00812)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;22;Ocean Nb & Pico Fs
+"MULTIPOINT (-118.48397110000001 34.0025143)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;22;Main Nb & Ocean Park Fs
+"MULTIPOINT (-118.48397110000001 34.0025143)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;22;Main Nb & Ocean Park Fs
+"MULTIPOINT (-118.4485388 34.0463911)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;22;Santa Monica Eb & Sawtelle Ns
+"MULTIPOINT (-118.4485388 34.0463911)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;22;Santa Monica Eb & Sawtelle Ns
+"MULTIPOINT (-118.494504 34.011234)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;22;Ocean Nb & Colorado Ns
+"MULTIPOINT (-118.4886934 34.0215978)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;23;Santa Monica Eb & 11Th Ns
+"MULTIPOINT (-118.4886934 34.0215978)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;23;Santa Monica Eb & 11Th Ns
+"MULTIPOINT (-118.494504 34.011234)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;23;Ocean Nb & Colorado Ns
+"MULTIPOINT (-118.4855212 34.0040345)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;23;Main Nb & Hollister Ns
+"MULTIPOINT (-118.4855212 34.0040345)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;23;Main Nb & Hollister Ns
+"MULTIPOINT (-118.4435225 34.0477089)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;23;Santa Monica Eb & Sepulveda Fs
+"MULTIPOINT (-118.4435225 34.0477089)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;23;Santa Monica Eb & Sepulveda Fs
+"MULTIPOINT (-118.4961375 34.0126019)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;23;Ocean Nb & Broadway Ns
+"MULTIPOINT (-118.4859055 34.0238373)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;24;Santa Monica Eb & 14Th Ns
+"MULTIPOINT (-118.4859055 34.0238373)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;24;Santa Monica Eb & 14Th Ns
+"MULTIPOINT (-118.4961375 34.0126019)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;24;Ocean Nb & Broadway Ns
+"MULTIPOINT (-118.48716760000001 34.0055477)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;24;Main Nb & Pacific Ns
+"MULTIPOINT (-118.48716760000001 34.0055477)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;24;Main Nb & Pacific Ns
+"MULTIPOINT (-118.4402166 34.0486207)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;24;Santa Monica Eb & Veteran Ns
+"MULTIPOINT (-118.4402166 34.0486207)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;24;Santa Monica Eb & Veteran Ns
+"MULTIPOINT (-118.4977641 34.014009)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;24;Ocean Nb & Santa Monica Ns
+"MULTIPOINT (-118.4839319 34.025465)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;25;Santa Monica Eb & 16Th Ns
+"MULTIPOINT (-118.4839319 34.025465)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;25;Santa Monica Eb & 16Th Ns
+"MULTIPOINT (-118.4977641 34.014009)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;25;Ocean Nb & Santa Monica Ns
+"MULTIPOINT (-118.4887528 34.0070903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;25;Main Nb & Bay Ns
+"MULTIPOINT (-118.4887528 34.0070903)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;25;Main Nb & Bay Ns
+"MULTIPOINT (-118.4372836 34.0503072)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;25;Westwood Nb & Santa Monica Fs
+"MULTIPOINT (-118.4372836 34.0503072)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;25;Westwood Nb & Santa Monica Fs
+"MULTIPOINT (-118.4963585 34.0154397)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;25;Santa Monica Eb & 3Rd Ns
+"MULTIPOINT (-118.4820408 34.0270282)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;26;Santa Monica Eb & 18Th Ns
+"MULTIPOINT (-118.4820408 34.0270282)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;26;Santa Monica Eb & 18Th Ns
+"MULTIPOINT (-118.4963585 34.0154397)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;26;Santa Monica Eb & 3Rd Ns
+"MULTIPOINT (-118.4908168 34.00812)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;26;Ocean Nb & Pico Fs
+"MULTIPOINT (-118.4908168 34.00812)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;26;Ocean Nb & Pico Fs
+"MULTIPOINT (-118.4385133 34.0517224)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;26;Westwood Nb & Massachusetts Ns
+"MULTIPOINT (-118.4385133 34.0517224)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;26;Westwood Nb & Massachusetts Ns
+"MULTIPOINT (-118.4958073 34.0158942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;26;Santa Monica Eb & 3Rd Fs
+"MULTIPOINT (-118.4797747 34.0290577)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;27;Santa Monica Eb & 20Th Fs
+"MULTIPOINT (-118.4797747 34.0290577)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;27;Santa Monica Eb & 20Th Fs
+"MULTIPOINT (-118.4958073 34.0158942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;27;Santa Monica Eb & 3Rd Fs
+"MULTIPOINT (-118.494504 34.011234)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;27;Ocean Nb & Colorado Ns
+"MULTIPOINT (-118.494504 34.011234)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;27;Ocean Nb & Colorado Ns
+"MULTIPOINT (-118.4404794 34.0539791)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;27;Westwood Nb & Ohio Ns
+"MULTIPOINT (-118.4404794 34.0539791)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;27;Westwood Nb & Ohio Ns
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;27;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.4780658 34.0301831)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;28;Santa Monica Eb & 22Nd Fs
+"MULTIPOINT (-118.4780658 34.0301831)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;28;Santa Monica Eb & 22Nd Fs
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;28;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.4961375 34.0126019)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;28;Ocean Nb & Broadway Ns
+"MULTIPOINT (-118.4961375 34.0126019)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;28;Ocean Nb & Broadway Ns
+"MULTIPOINT (-118.4420348 34.0559544)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;28;Westwood Nb & Rochester Ns
+"MULTIPOINT (-118.4420348 34.0559544)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;28;Westwood Nb & Rochester Ns
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;28;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4766338 34.0313688)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;29;Santa Monica Eb & Cloverfield Fs
+"MULTIPOINT (-118.4766338 34.0313688)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;29;Santa Monica Eb & Cloverfield Fs
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;29;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4977641 34.014009)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;29;Ocean Nb & Santa Monica Ns
+"MULTIPOINT (-118.4977641 34.014009)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;29;Ocean Nb & Santa Monica Ns
+"MULTIPOINT (-118.4435759 34.058562)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;29;Westwood Nb & Wilshire Ns
+"MULTIPOINT (-118.4435759 34.058562)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;29;Westwood Nb & Wilshire Ns
+"MULTIPOINT (-118.49153680000001 34.0193168)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;29;Santa Monica Eb & Lincoln Ns
+"MULTIPOINT (-118.4744153 34.0331431)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;30;Santa Monica Eb & 26Th Ns
+"MULTIPOINT (-118.4744153 34.0331431)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;30;Santa Monica Eb & 26Th Ns
+"MULTIPOINT (-118.49153680000001 34.0193168)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;30;Santa Monica Eb & Lincoln Ns
+"MULTIPOINT (-118.4963585 34.0154397)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;30;Santa Monica Eb & 3Rd Ns
+"MULTIPOINT (-118.4963585 34.0154397)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;30;Santa Monica Eb & 3Rd Ns
+"MULTIPOINT (-118.4443707 34.0594547)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;30;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4443707 34.0594547)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;30;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4886934 34.0215978)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;30;Santa Monica Eb & 11Th Ns
+"MULTIPOINT (-118.47116370000001 34.0357233)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;31;Santa Monica Eb & Yale Fs
+"MULTIPOINT (-118.47116370000001 34.0357233)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;31;Santa Monica Eb & Yale Fs
+"MULTIPOINT (-118.4886934 34.0215978)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;31;Santa Monica Eb & 11Th Ns
+"MULTIPOINT (-118.4958073 34.0158942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;31;Santa Monica Eb & 3Rd Fs
+"MULTIPOINT (-118.4958073 34.0158942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;31;Santa Monica Eb & 3Rd Fs
+"MULTIPOINT (-118.4454066 34.0624205)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;31;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4454066 34.0624205)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;31;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4859055 34.0238373)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;31;Santa Monica Eb & 14Th Ns
+"MULTIPOINT (-118.4696263 34.0369583)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;32;Santa Monica Eb & Berkeley Ns
+"MULTIPOINT (-118.4696263 34.0369583)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;32;Santa Monica Eb & Berkeley Ns
+"MULTIPOINT (-118.4859055 34.0238373)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;32;Santa Monica Eb & 14Th Ns
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;32;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.494933 34.0166693)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;32;Santa Monica Eb & 4Th Fs
+"MULTIPOINT (-118.4452312 34.0654335)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;32;Westwood Plaza Nb & J Stein Eye Fs
+"MULTIPOINT (-118.4452665 34.0635232)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;32;Westwood Nb & Le Conte Ns
+"MULTIPOINT (-118.4839319 34.025465)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;32;Santa Monica Eb & 16Th Ns
+"MULTIPOINT (-118.4672936 34.0386819)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;33;Santa Monica Eb & Centinela Fs
+"MULTIPOINT (-118.4672936 34.0386819)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;33;Santa Monica Eb & Centinela Fs
+"MULTIPOINT (-118.4839319 34.025465)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;33;Santa Monica Eb & 16Th Ns
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;33;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4934227 34.0178414)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;33;Santa Monica Eb & 6Th Ns
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580505;33;Charles E Young Term A
+"MULTIPOINT (-118.442728 34.063671)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;33;Le Conte Eb & Tiverton Ns
+"MULTIPOINT (-118.4820408 34.0270282)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;33;Santa Monica Eb & 18Th Ns
+"MULTIPOINT (-118.4655439 34.0395065)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;34;Santa Monica Eb & Wellesley Ns
+"MULTIPOINT (-118.4655439 34.0395065)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;34;Santa Monica Eb & Wellesley Ns
+"MULTIPOINT (-118.4820408 34.0270282)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;34;Santa Monica Eb & 18Th Ns
+"MULTIPOINT (-118.49153680000001 34.0193168)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;34;Santa Monica Eb & Lincoln Ns
+"MULTIPOINT (-118.49153680000001 34.0193168)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;34;Santa Monica Eb & Lincoln Ns
+"MULTIPOINT (-118.4409036 34.0645011)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;34;Hilgard Nb & Le Conte Fs
+"MULTIPOINT (-118.4797747 34.0290577)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;34;Santa Monica Eb & 20Th Fs
+"MULTIPOINT (-118.4634234 34.0403836)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;35;Santa Monica Eb & Bundy Ns
+"MULTIPOINT (-118.4634234 34.0403836)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;35;Santa Monica Eb & Bundy Ns
+"MULTIPOINT (-118.4797747 34.0290577)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;35;Santa Monica Eb & 20Th Fs
+"MULTIPOINT (-118.4886934 34.0215978)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;35;Santa Monica Eb & 11Th Ns
+"MULTIPOINT (-118.4886934 34.0215978)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;35;Santa Monica Eb & 11Th Ns
+"MULTIPOINT (-118.4396655 34.0664399)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;35;Hilgard Nb & Manning Ave Ns
+"MULTIPOINT (-118.4780658 34.0301831)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;35;Santa Monica Eb & 22Nd Fs
+"MULTIPOINT (-118.4614769 34.0412411)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;36;Santa Monica Eb & Brockton Ns
+"MULTIPOINT (-118.4614769 34.0412411)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;36;Santa Monica Eb & Brockton Ns
+"MULTIPOINT (-118.4780658 34.0301831)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;36;Santa Monica Eb & 22Nd Fs
+"MULTIPOINT (-118.4859055 34.0238373)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;36;Santa Monica Eb & 14Th Ns
+"MULTIPOINT (-118.4859055 34.0238373)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;36;Santa Monica Eb & 14Th Ns
+"MULTIPOINT (-118.4389286 34.0694032)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;36;Hilgard Nb & Westholme Ns
+"MULTIPOINT (-118.4766338 34.0313688)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;36;Santa Monica Eb & Cloverfield Fs
+"MULTIPOINT (-118.45928 34.042231)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;37;Santa Monica Eb & Westgate Ns
+"MULTIPOINT (-118.45928 34.042231)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;37;Santa Monica Eb & Westgate Ns
+"MULTIPOINT (-118.4766338 34.0313688)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;37;Santa Monica Eb & Cloverfield Fs
+"MULTIPOINT (-118.4839319 34.025465)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;37;Santa Monica Eb & 16Th Ns
+"MULTIPOINT (-118.4839319 34.025465)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;37;Santa Monica Eb & 16Th Ns
+"MULTIPOINT (-118.4385593 34.0710292)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580773;37;Ucla Terminal
+"MULTIPOINT (-118.4744153 34.0331431)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;37;Santa Monica Eb & 26Th Ns
+"MULTIPOINT (-118.4561394 34.0436241)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;38;Santa Monica Eb & Barrington Ns
+"MULTIPOINT (-118.4561394 34.0436241)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;38;Santa Monica Eb & Barrington Ns
+"MULTIPOINT (-118.4744153 34.0331431)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;38;Santa Monica Eb & 26Th Ns
+"MULTIPOINT (-118.4820408 34.0270282)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;38;Santa Monica Eb & 18Th Ns
+"MULTIPOINT (-118.4820408 34.0270282)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;38;Santa Monica Eb & 18Th Ns
+"MULTIPOINT (-118.47116370000001 34.0357233)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;38;Santa Monica Eb & Yale Fs
+"MULTIPOINT (-118.4535594 34.0447942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;39;Santa Monica Eb & Federal Fs
+"MULTIPOINT (-118.4535594 34.0447942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;39;Santa Monica Eb & Federal Fs
+"MULTIPOINT (-118.47116370000001 34.0357233)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;39;Santa Monica Eb & Yale Fs
+"MULTIPOINT (-118.4797747 34.0290577)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;39;Santa Monica Eb & 20Th Fs
+"MULTIPOINT (-118.4797747 34.0290577)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;39;Santa Monica Eb & 20Th Fs
+"MULTIPOINT (-118.4696263 34.0369583)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;39;Santa Monica Eb & Berkeley Ns
+"MULTIPOINT (-118.4496966 34.0460356)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;40;Santa Monica Eb & Corinth Ns
+"MULTIPOINT (-118.4496966 34.0460356)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;40;Santa Monica Eb & Corinth Ns
+"MULTIPOINT (-118.4696263 34.0369583)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;40;Santa Monica Eb & Berkeley Ns
+"MULTIPOINT (-118.4780658 34.0301831)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;40;Santa Monica Eb & 22Nd Fs
+"MULTIPOINT (-118.4780658 34.0301831)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;40;Santa Monica Eb & 22Nd Fs
+"MULTIPOINT (-118.4672936 34.0386819)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;40;Santa Monica Eb & Centinela Fs
+"MULTIPOINT (-118.4485388 34.0463911)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;41;Santa Monica Eb & Sawtelle Ns
+"MULTIPOINT (-118.4485388 34.0463911)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;41;Santa Monica Eb & Sawtelle Ns
+"MULTIPOINT (-118.4672936 34.0386819)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;41;Santa Monica Eb & Centinela Fs
+"MULTIPOINT (-118.4766338 34.0313688)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;41;Santa Monica Eb & Cloverfield Fs
+"MULTIPOINT (-118.4766338 34.0313688)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;41;Santa Monica Eb & Cloverfield Fs
+"MULTIPOINT (-118.4655439 34.0395065)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;41;Santa Monica Eb & Wellesley Ns
+"MULTIPOINT (-118.4435225 34.0477089)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;42;Santa Monica Eb & Sepulveda Fs
+"MULTIPOINT (-118.4435225 34.0477089)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;42;Santa Monica Eb & Sepulveda Fs
+"MULTIPOINT (-118.4655439 34.0395065)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;42;Santa Monica Eb & Wellesley Ns
+"MULTIPOINT (-118.4744153 34.0331431)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;42;Santa Monica Eb & 26Th Ns
+"MULTIPOINT (-118.4744153 34.0331431)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;42;Santa Monica Eb & 26Th Ns
+"MULTIPOINT (-118.4634234 34.0403836)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;42;Santa Monica Eb & Bundy Ns
+"MULTIPOINT (-118.4402166 34.0486207)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;43;Santa Monica Eb & Veteran Ns
+"MULTIPOINT (-118.4402166 34.0486207)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;43;Santa Monica Eb & Veteran Ns
+"MULTIPOINT (-118.4634234 34.0403836)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;43;Santa Monica Eb & Bundy Ns
+"MULTIPOINT (-118.47116370000001 34.0357233)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;43;Santa Monica Eb & Yale Fs
+"MULTIPOINT (-118.47116370000001 34.0357233)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;43;Santa Monica Eb & Yale Fs
+"MULTIPOINT (-118.4614769 34.0412411)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;43;Santa Monica Eb & Brockton Ns
+"MULTIPOINT (-118.4372836 34.0503072)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;44;Westwood Nb & Santa Monica Fs
+"MULTIPOINT (-118.4372836 34.0503072)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;44;Westwood Nb & Santa Monica Fs
+"MULTIPOINT (-118.4614769 34.0412411)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;44;Santa Monica Eb & Brockton Ns
+"MULTIPOINT (-118.4696263 34.0369583)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;44;Santa Monica Eb & Berkeley Ns
+"MULTIPOINT (-118.4696263 34.0369583)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;44;Santa Monica Eb & Berkeley Ns
+"MULTIPOINT (-118.45928 34.042231)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;44;Santa Monica Eb & Westgate Ns
+"MULTIPOINT (-118.4385133 34.0517224)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;45;Westwood Nb & Massachusetts Ns
+"MULTIPOINT (-118.4385133 34.0517224)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;45;Westwood Nb & Massachusetts Ns
+"MULTIPOINT (-118.45928 34.042231)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;45;Santa Monica Eb & Westgate Ns
+"MULTIPOINT (-118.4672936 34.0386819)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;45;Santa Monica Eb & Centinela Fs
+"MULTIPOINT (-118.4672936 34.0386819)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;45;Santa Monica Eb & Centinela Fs
+"MULTIPOINT (-118.4561394 34.0436241)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;45;Santa Monica Eb & Barrington Ns
+"MULTIPOINT (-118.4404794 34.0539791)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;46;Westwood Nb & Ohio Ns
+"MULTIPOINT (-118.4404794 34.0539791)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;46;Westwood Nb & Ohio Ns
+"MULTIPOINT (-118.4561394 34.0436241)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;46;Santa Monica Eb & Barrington Ns
+"MULTIPOINT (-118.4655439 34.0395065)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;46;Santa Monica Eb & Wellesley Ns
+"MULTIPOINT (-118.4655439 34.0395065)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;46;Santa Monica Eb & Wellesley Ns
+"MULTIPOINT (-118.4535594 34.0447942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;46;Santa Monica Eb & Federal Fs
+"MULTIPOINT (-118.4420348 34.0559544)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;47;Westwood Nb & Rochester Ns
+"MULTIPOINT (-118.4420348 34.0559544)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;47;Westwood Nb & Rochester Ns
+"MULTIPOINT (-118.4535594 34.0447942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;47;Santa Monica Eb & Federal Fs
+"MULTIPOINT (-118.4634234 34.0403836)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;47;Santa Monica Eb & Bundy Ns
+"MULTIPOINT (-118.4634234 34.0403836)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;47;Santa Monica Eb & Bundy Ns
+"MULTIPOINT (-118.4496966 34.0460356)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;47;Santa Monica Eb & Corinth Ns
+"MULTIPOINT (-118.4435759 34.058562)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;48;Westwood Nb & Wilshire Ns
+"MULTIPOINT (-118.4435759 34.058562)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;48;Westwood Nb & Wilshire Ns
+"MULTIPOINT (-118.4496966 34.0460356)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;48;Santa Monica Eb & Corinth Ns
+"MULTIPOINT (-118.4614769 34.0412411)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;48;Santa Monica Eb & Brockton Ns
+"MULTIPOINT (-118.4614769 34.0412411)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;48;Santa Monica Eb & Brockton Ns
+"MULTIPOINT (-118.4485388 34.0463911)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;48;Santa Monica Eb & Sawtelle Ns
+"MULTIPOINT (-118.4443707 34.0594547)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;49;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4443707 34.0594547)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;49;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4485388 34.0463911)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;49;Santa Monica Eb & Sawtelle Ns
+"MULTIPOINT (-118.45928 34.042231)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;49;Santa Monica Eb & Westgate Ns
+"MULTIPOINT (-118.45928 34.042231)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;49;Santa Monica Eb & Westgate Ns
+"MULTIPOINT (-118.4435225 34.0477089)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;49;Santa Monica Eb & Sepulveda Fs
+"MULTIPOINT (-118.4454066 34.0624205)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;50;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4454066 34.0624205)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;50;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4435225 34.0477089)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;50;Santa Monica Eb & Sepulveda Fs
+"MULTIPOINT (-118.4561394 34.0436241)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;50;Santa Monica Eb & Barrington Ns
+"MULTIPOINT (-118.4561394 34.0436241)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;50;Santa Monica Eb & Barrington Ns
+"MULTIPOINT (-118.4402166 34.0486207)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;50;Santa Monica Eb & Veteran Ns
+"MULTIPOINT (-118.4452312 34.0654335)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;51;Westwood Plaza Nb & J Stein Eye Fs
+"MULTIPOINT (-118.4452665 34.0635232)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;51;Westwood Nb & Le Conte Ns
+"MULTIPOINT (-118.4402166 34.0486207)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;51;Santa Monica Eb & Veteran Ns
+"MULTIPOINT (-118.4535594 34.0447942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;51;Santa Monica Eb & Federal Fs
+"MULTIPOINT (-118.4535594 34.0447942)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;51;Santa Monica Eb & Federal Fs
+"MULTIPOINT (-118.4372836 34.0503072)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;51;Westwood Nb & Santa Monica Fs
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580506;52;Charles E Young Term A
+"MULTIPOINT (-118.442728 34.063671)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;52;Le Conte Eb & Tiverton Ns
+"MULTIPOINT (-118.4372836 34.0503072)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;52;Westwood Nb & Santa Monica Fs
+"MULTIPOINT (-118.4496966 34.0460356)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;52;Santa Monica Eb & Corinth Ns
+"MULTIPOINT (-118.4496966 34.0460356)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;52;Santa Monica Eb & Corinth Ns
+"MULTIPOINT (-118.4385133 34.0517224)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;52;Westwood Nb & Massachusetts Ns
+"MULTIPOINT (-118.4409036 34.0645011)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;53;Hilgard Nb & Le Conte Fs
+"MULTIPOINT (-118.4385133 34.0517224)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;53;Westwood Nb & Massachusetts Ns
+"MULTIPOINT (-118.4485388 34.0463911)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;53;Santa Monica Eb & Sawtelle Ns
+"MULTIPOINT (-118.4485388 34.0463911)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;53;Santa Monica Eb & Sawtelle Ns
+"MULTIPOINT (-118.4404794 34.0539791)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;53;Westwood Nb & Ohio Ns
+"MULTIPOINT (-118.4396655 34.0664399)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;54;Hilgard Nb & Manning Ave Ns
+"MULTIPOINT (-118.4404794 34.0539791)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;54;Westwood Nb & Ohio Ns
+"MULTIPOINT (-118.4435225 34.0477089)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;54;Santa Monica Eb & Sepulveda Fs
+"MULTIPOINT (-118.4435225 34.0477089)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;54;Santa Monica Eb & Sepulveda Fs
+"MULTIPOINT (-118.4420348 34.0559544)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;54;Westwood Nb & Rochester Ns
+"MULTIPOINT (-118.4389286 34.0694032)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;55;Hilgard Nb & Westholme Ns
+"MULTIPOINT (-118.4420348 34.0559544)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;55;Westwood Nb & Rochester Ns
+"MULTIPOINT (-118.4402166 34.0486207)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;55;Santa Monica Eb & Veteran Ns
+"MULTIPOINT (-118.4402166 34.0486207)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;55;Santa Monica Eb & Veteran Ns
+"MULTIPOINT (-118.4435759 34.058562)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;55;Westwood Nb & Wilshire Ns
+"MULTIPOINT (-118.4385593 34.0710292)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580760;56;Ucla Terminal
+"MULTIPOINT (-118.4435759 34.058562)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;56;Westwood Nb & Wilshire Ns
+"MULTIPOINT (-118.4372836 34.0503072)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;56;Westwood Nb & Santa Monica Fs
+"MULTIPOINT (-118.4372836 34.0503072)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;56;Westwood Nb & Santa Monica Fs
+"MULTIPOINT (-118.4443707 34.0594547)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;56;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4443707 34.0594547)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;57;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4385133 34.0517224)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;57;Westwood Nb & Massachusetts Ns
+"MULTIPOINT (-118.4385133 34.0517224)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;57;Westwood Nb & Massachusetts Ns
+"MULTIPOINT (-118.4454066 34.0624205)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;57;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4454066 34.0624205)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;58;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4404794 34.0539791)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;58;Westwood Nb & Ohio Ns
+"MULTIPOINT (-118.4404794 34.0539791)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;58;Westwood Nb & Ohio Ns
+"MULTIPOINT (-118.4452312 34.0654335)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;58;Westwood Plaza Nb & J Stein Eye Fs
+"MULTIPOINT (-118.4452312 34.0654335)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;59;Westwood Plaza Nb & J Stein Eye Fs
+"MULTIPOINT (-118.4420348 34.0559544)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;59;Westwood Nb & Rochester Ns
+"MULTIPOINT (-118.4420348 34.0559544)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;59;Westwood Nb & Rochester Ns
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580509;59;Charles E Young Term A
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580512;60;Charles E Young Term A
+"MULTIPOINT (-118.4435759 34.058562)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;60;Westwood Nb & Wilshire Ns
+"MULTIPOINT (-118.4435759 34.058562)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;60;Westwood Nb & Wilshire Ns
+"MULTIPOINT (-118.4443707 34.0594547)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;61;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4443707 34.0594547)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;61;Westwood Nb & Lindbrook Ns
+"MULTIPOINT (-118.4454066 34.0624205)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;62;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4454066 34.0624205)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;62;Westwood Nb & Weyburn Ns
+"MULTIPOINT (-118.4452312 34.0654335)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;63;Westwood Plaza Nb & J Stein Eye Fs
+"MULTIPOINT (-118.4452665 34.0635232)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;63;Westwood Nb & Le Conte Ns
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580759;64;Charles E Young Term A
+"MULTIPOINT (-118.442728 34.063671)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;64;Le Conte Eb & Tiverton Ns
+"MULTIPOINT (-118.4409036 34.0645011)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;65;Hilgard Nb & Le Conte Fs
+"MULTIPOINT (-118.4396655 34.0664399)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;66;Hilgard Nb & Manning Ave Ns
+"MULTIPOINT (-118.4389286 34.0694032)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;67;Hilgard Nb & Westholme Ns
+"MULTIPOINT (-118.4385593 34.0710292)";1;Santa Monica Blvd - Ucla;0;Line 1 UCLA;1 - Santa Monica Blvd - Ucla - 0 - Line 1 UCLA;580761;68;Ucla Terminal
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;1;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;2;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;3;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;4;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;5;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;6;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;7;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;8;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;9;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;10;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;11;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;12;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;13;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;14;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;15;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;16;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;17;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;18;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;19;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;20;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;21;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;22;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;23;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;24;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;25;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;26;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;27;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;28;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;29;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4948039 34.0139658)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;30;Broadway Wb & 3Rd Fs
+"MULTIPOINT (-118.49635240000001 34.0124422)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;31;Ocean Sb & Broadway Fs
+"MULTIPOINT (-118.4954341 34.0116718)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;32;Ocean Sb & Colorado Ns
+"MULTIPOINT (-118.4891252 34.0072672)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;33;Main Sb & Bay Ns
+"MULTIPOINT (-118.4876115 34.0057001)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;34;Main Sb & Pacific Ns
+"MULTIPOINT (-118.486286 34.0044139)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;35;Main Sb & Hollister Ns
+"MULTIPOINT (-118.4836179 34.0019215)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;36;Main Sb & Ocean Park Fs
+"MULTIPOINT (-118.4827392 34.0010452)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;37;Main Sb & Hill Ns
+"MULTIPOINT (-118.4813349 33.9995996)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;38;Main Sb & Ashland Ns
+"MULTIPOINT (-118.4799582 33.9982976)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;39;Main Sb & Marine Ns
+"MULTIPOINT (-118.47763070000001 33.9958871)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;40;Main Sb & Rose Fs
+"MULTIPOINT (-118.4760041 33.9941461)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;41;Main Sb & Sunset Fs
+"MULTIPOINT (-118.47397410000001 33.9919977)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;42;Main Sb & Brooks Fs
+"MULTIPOINT (-118.47275 33.9901766)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;43;Main Sb & Westminster Ns
+"MULTIPOINT (-118.4708936 33.9875475)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;44;Main Sb & Venice Way Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;45;Windward Eb & Main Ns
+"MULTIPOINT (-118.4694585 33.9895345)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;46;Riviera Nb & Windward Fs
+"MULTIPOINT (-118.4706853 33.991684)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;47;Westminster Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4682018 33.9911833)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;48;Abbot Kinney Eb & Cadiz Court Ns
+"MULTIPOINT (-118.4658024 33.9909461)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;49;California Eb & Abbot Kinney Fs
+"MULTIPOINT (-118.4644297 33.9929426)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;50;California Eb & Shell Ns
+"MULTIPOINT (-118.4632379 33.9946463)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;51;California Eb & Oakwood Ns
+"MULTIPOINT (-118.4621109 33.9963131)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;52;California Eb & Linden Ns
+"MULTIPOINT (-118.46101040000001 33.9978427)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;53;California Eb & Lincoln Ns
+"MULTIPOINT (-118.4606584 33.9988549)";1;Santa Monica Blvd - Ucla;1;Line 1 California & Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California & Lincoln;580574;54;California Wb & Frederick Fs
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;1;Charles E Young Term A
+"MULTIPOINT (-118.4391208 34.0693345)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4394437 34.0669549)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.44135470000001 34.0641377)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.442829 34.0637914)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.4454548 34.0627881)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.444879 34.0598913)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;8;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;9;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;10;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;11;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;12;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;13;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;14;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;15;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;16;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;17;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;18;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;19;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;20;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;21;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;22;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;23;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;24;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;25;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;26;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;27;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;28;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;29;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;30;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;31;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;32;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;33;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;34;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;35;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;36;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4948039 34.0139658)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;37;Broadway Wb & 3Rd Fs
+"MULTIPOINT (-118.49635240000001 34.0124422)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;38;Ocean Sb & Broadway Fs
+"MULTIPOINT (-118.4954341 34.0116718)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;39;Ocean Sb & Colorado Ns
+"MULTIPOINT (-118.4891252 34.0072672)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;40;Main Sb & Bay Ns
+"MULTIPOINT (-118.4876115 34.0057001)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;41;Main Sb & Pacific Ns
+"MULTIPOINT (-118.486286 34.0044139)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;42;Main Sb & Hollister Ns
+"MULTIPOINT (-118.4836179 34.0019215)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;43;Main Sb & Ocean Park Fs
+"MULTIPOINT (-118.4827392 34.0010452)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;44;Main Sb & Hill Ns
+"MULTIPOINT (-118.4813349 33.9995996)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;45;Main Sb & Ashland Ns
+"MULTIPOINT (-118.4799582 33.9982976)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;46;Main Sb & Marine Ns
+"MULTIPOINT (-118.47763070000001 33.9958871)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;47;Main Sb & Rose Fs
+"MULTIPOINT (-118.4760041 33.9941461)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;48;Main Sb & Sunset Fs
+"MULTIPOINT (-118.47397410000001 33.9919977)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;49;Main Sb & Brooks Fs
+"MULTIPOINT (-118.47275 33.9901766)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;50;Main Sb & Westminster Ns
+"MULTIPOINT (-118.4708936 33.9875475)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;51;Main Sb & Venice Way Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;52;Windward Eb & Main Ns
+"MULTIPOINT (-118.4694585 33.9895345)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;53;Riviera Nb & Windward Fs
+"MULTIPOINT (-118.4706853 33.991684)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;54;Westminster Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4682018 33.9911833)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;55;Abbot Kinney Eb & Cadiz Court Ns
+"MULTIPOINT (-118.4658024 33.9909461)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;56;California Eb & Abbot Kinney Fs
+"MULTIPOINT (-118.4644297 33.9929426)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;57;California Eb & Shell Ns
+"MULTIPOINT (-118.4632379 33.9946463)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;58;California Eb & Oakwood Ns
+"MULTIPOINT (-118.4621109 33.9963131)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;59;California Eb & Linden Ns
+"MULTIPOINT (-118.46101040000001 33.9978427)";1;Santa Monica Blvd - Ucla;1;Line 1 California and Lincoln;1 - Santa Monica Blvd - Ucla - 1 - Line 1 California and Lincoln;580622;60;California Eb & Lincoln Ns
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;1;Charles E Young Term A
+"MULTIPOINT (-118.4391208 34.0693345)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4394437 34.0669549)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.44135470000001 34.0641377)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.442829 34.0637914)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.4454548 34.0627881)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.444879 34.0598913)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;8;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;9;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;10;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;11;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;12;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;13;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;14;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;15;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;16;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;17;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;18;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;19;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;20;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;21;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;22;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;23;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;24;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;25;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;26;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;27;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;28;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;29;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;30;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;31;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;32;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;33;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;34;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;35;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;36;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4948039 34.0139658)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;37;Broadway Wb & 3Rd Fs
+"MULTIPOINT (-118.49635240000001 34.0124422)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;38;Ocean Sb & Broadway Fs
+"MULTIPOINT (-118.4954341 34.0116718)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;39;Ocean Sb & Colorado Ns
+"MULTIPOINT (-118.4891252 34.0072672)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;40;Main Sb & Bay Ns
+"MULTIPOINT (-118.4876115 34.0057001)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;41;Main Sb & Pacific Ns
+"MULTIPOINT (-118.486286 34.0044139)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;42;Main Sb & Hollister Ns
+"MULTIPOINT (-118.4836179 34.0019215)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;43;Main Sb & Ocean Park Fs
+"MULTIPOINT (-118.4827392 34.0010452)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;44;Main Sb & Hill Ns
+"MULTIPOINT (-118.4813349 33.9995996)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;45;Main Sb & Ashland Ns
+"MULTIPOINT (-118.4799582 33.9982976)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;46;Main Sb & Marine Ns
+"MULTIPOINT (-118.47763070000001 33.9958871)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;47;Main Sb & Rose Fs
+"MULTIPOINT (-118.4760041 33.9941461)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;48;Main Sb & Sunset Fs
+"MULTIPOINT (-118.47397410000001 33.9919977)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;49;Main Sb & Brooks Fs
+"MULTIPOINT (-118.47275 33.9901766)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;50;Main Sb & Westminster Ns
+"MULTIPOINT (-118.4708936 33.9875475)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;51;Main Sb & Venice Way Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;52;Windward Eb & Main Ns
+"MULTIPOINT (-118.4694585 33.9895345)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;53;Riviera Nb & Windward Fs
+"MULTIPOINT (-118.4706853 33.991684)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;54;Westminster Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4682018 33.9911833)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;55;Abbot Kinney Eb & Cadiz Court Ns
+"MULTIPOINT (-118.4658024 33.9909461)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;56;California Eb & Abbot Kinney Fs
+"MULTIPOINT (-118.4644297 33.9929426)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;57;California Eb & Shell Ns
+"MULTIPOINT (-118.4632379 33.9946463)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;58;California Eb & Oakwood Ns
+"MULTIPOINT (-118.4621109 33.9963131)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;59;California Eb & Linden Ns
+"MULTIPOINT (-118.46101040000001 33.9978427)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;60;California Eb & Lincoln Ns
+"MULTIPOINT (-118.4606584 33.9988549)";1;Santa Monica Blvd - Ucla;1;Line 1 Lincoln and California;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Lincoln and California;580576;61;California Wb & Frederick Fs
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;1;Charles E Young Term A
+"MULTIPOINT (-118.4391208 34.0693345)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4394437 34.0669549)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.44135470000001 34.0641377)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.442829 34.0637914)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.4454548 34.0627881)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.444879 34.0598913)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;8;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;9;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;10;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;11;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;12;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;13;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;14;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;15;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;16;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;17;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;18;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;19;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;20;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;21;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;22;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;23;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;24;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;25;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;26;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;27;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;28;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;29;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;30;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;31;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;32;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;33;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;34;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;35;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/ 4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/ 4th & Broadway Only;580628;36;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4385593 34.0710292)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;1;Ucla Terminal
+"MULTIPOINT (-118.4391208 34.0693345)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4394437 34.0669549)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.44135470000001 34.0641377)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.442829 34.0637914)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.4454548 34.0627881)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.444879 34.0598913)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;8;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;9;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;10;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;11;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;12;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;13;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;14;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;15;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;16;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;17;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;18;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;19;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;20;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;21;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;22;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;23;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;24;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;25;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;26;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;27;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;28;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;29;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;30;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;31;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;32;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;33;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;34;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;35;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 Santa Monica/4th & Broadway Only;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Santa Monica/4th & Broadway Only;580905;36;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;1;Charles E Young Term A
+"MULTIPOINT (-118.4385593 34.0710292)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;1;Ucla Terminal
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;1;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4391208 34.0693345)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4391208 34.0693345)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;2;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4394437 34.0669549)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.4394437 34.0669549)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;3;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.44135470000001 34.0641377)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.44135470000001 34.0641377)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;4;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.442829 34.0637914)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.442829 34.0637914)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;5;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4454548 34.0627881)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.4454548 34.0627881)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;6;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.444879 34.0598913)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.444879 34.0598913)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;7;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;8;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;8;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;8;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;9;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;9;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;9;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;10;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;10;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;10;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;11;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;11;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;11;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;12;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;12;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;12;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;13;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;13;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;13;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;14;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;14;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;14;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;15;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;15;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;15;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;16;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;16;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;16;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;17;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;17;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;17;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;18;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;18;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;18;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;19;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;19;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;19;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;20;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;20;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;20;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;21;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;21;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;21;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;22;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;22;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;22;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;23;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;23;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;23;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;24;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;24;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;24;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;25;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;25;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;25;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;26;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;26;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;26;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;27;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;27;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;27;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;28;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;28;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;28;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;29;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;29;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;29;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;30;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;30;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.4948039 34.0139658)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;30;Broadway Wb & 3Rd Fs
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;31;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;31;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.49635240000001 34.0124422)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;31;Ocean Sb & Broadway Fs
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;32;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;32;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4954341 34.0116718)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;32;Ocean Sb & Colorado Ns
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;33;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;33;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.4891252 34.0072672)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;33;Main Sb & Bay Ns
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;34;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;34;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.4876115 34.0057001)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;34;Main Sb & Pacific Ns
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;35;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;35;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.486286 34.0044139)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;35;Main Sb & Hollister Ns
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;36;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;36;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4836179 34.0019215)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;36;Main Sb & Ocean Park Fs
+"MULTIPOINT (-118.4948039 34.0139658)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;37;Broadway Wb & 3Rd Fs
+"MULTIPOINT (-118.4948039 34.0139658)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;37;Broadway Wb & 3Rd Fs
+"MULTIPOINT (-118.4827392 34.0010452)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;37;Main Sb & Hill Ns
+"MULTIPOINT (-118.49635240000001 34.0124422)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;38;Ocean Sb & Broadway Fs
+"MULTIPOINT (-118.49635240000001 34.0124422)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;38;Ocean Sb & Broadway Fs
+"MULTIPOINT (-118.4813349 33.9995996)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;38;Main Sb & Ashland Ns
+"MULTIPOINT (-118.4954341 34.0116718)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;39;Ocean Sb & Colorado Ns
+"MULTIPOINT (-118.4954341 34.0116718)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;39;Ocean Sb & Colorado Ns
+"MULTIPOINT (-118.4799582 33.9982976)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;39;Main Sb & Marine Ns
+"MULTIPOINT (-118.4891252 34.0072672)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;40;Main Sb & Bay Ns
+"MULTIPOINT (-118.4891252 34.0072672)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;40;Main Sb & Bay Ns
+"MULTIPOINT (-118.47763070000001 33.9958871)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;40;Main Sb & Rose Fs
+"MULTIPOINT (-118.4876115 34.0057001)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;41;Main Sb & Pacific Ns
+"MULTIPOINT (-118.4876115 34.0057001)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;41;Main Sb & Pacific Ns
+"MULTIPOINT (-118.4760041 33.9941461)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;41;Main Sb & Sunset Fs
+"MULTIPOINT (-118.486286 34.0044139)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;42;Main Sb & Hollister Ns
+"MULTIPOINT (-118.486286 34.0044139)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;42;Main Sb & Hollister Ns
+"MULTIPOINT (-118.47397410000001 33.9919977)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;42;Main Sb & Brooks Fs
+"MULTIPOINT (-118.4836179 34.0019215)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;43;Main Sb & Ocean Park Fs
+"MULTIPOINT (-118.4836179 34.0019215)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;43;Main Sb & Ocean Park Fs
+"MULTIPOINT (-118.47275 33.9901766)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;43;Main Sb & Westminster Ns
+"MULTIPOINT (-118.4827392 34.0010452)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;44;Main Sb & Hill Ns
+"MULTIPOINT (-118.4827392 34.0010452)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;44;Main Sb & Hill Ns
+"MULTIPOINT (-118.4708936 33.9875475)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;44;Main Sb & Venice Way Ns
+"MULTIPOINT (-118.4813349 33.9995996)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;45;Main Sb & Ashland Ns
+"MULTIPOINT (-118.4813349 33.9995996)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;45;Main Sb & Ashland Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580579;45;Windward Eb & Main Ns
+"MULTIPOINT (-118.4799582 33.9982976)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;46;Main Sb & Marine Ns
+"MULTIPOINT (-118.4799582 33.9982976)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;46;Main Sb & Marine Ns
+"MULTIPOINT (-118.47763070000001 33.9958871)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;47;Main Sb & Rose Fs
+"MULTIPOINT (-118.47763070000001 33.9958871)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;47;Main Sb & Rose Fs
+"MULTIPOINT (-118.4760041 33.9941461)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;48;Main Sb & Sunset Fs
+"MULTIPOINT (-118.4760041 33.9941461)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;48;Main Sb & Sunset Fs
+"MULTIPOINT (-118.47397410000001 33.9919977)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;49;Main Sb & Brooks Fs
+"MULTIPOINT (-118.47397410000001 33.9919977)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;49;Main Sb & Brooks Fs
+"MULTIPOINT (-118.47275 33.9901766)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;50;Main Sb & Westminster Ns
+"MULTIPOINT (-118.47275 33.9901766)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;50;Main Sb & Westminster Ns
+"MULTIPOINT (-118.4708936 33.9875475)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;51;Main Sb & Venice Way Ns
+"MULTIPOINT (-118.4708936 33.9875475)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;51;Main Sb & Venice Way Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580572;52;Windward Eb & Main Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice Circle;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice Circle;580863;52;Windward Eb & Main Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;1;Windward Eb & Main Ns
+"MULTIPOINT (-118.4403651 34.0689551)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;1;Charles E Young Term A
+"MULTIPOINT (-118.4385593 34.0710292)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;1;Ucla Terminal
+"MULTIPOINT (-118.4694585 33.9895345)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;2;Riviera Nb & Windward Fs
+"MULTIPOINT (-118.4391208 34.0693345)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4391208 34.0693345)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;2;Hilgard Sb & Westholme Fs
+"MULTIPOINT (-118.4706853 33.991684)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;3;Westminster Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4394437 34.0669549)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.4394437 34.0669549)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;3;Hilgard Sb & Manning Dr Fs
+"MULTIPOINT (-118.4682018 33.9911833)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;4;Abbot Kinney Eb & Cadiz Court Ns
+"MULTIPOINT (-118.44135470000001 34.0641377)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.44135470000001 34.0641377)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;4;Le Conte Wb & Hilgard Fs
+"MULTIPOINT (-118.4658024 33.9909461)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;5;California Eb & Abbot Kinney Fs
+"MULTIPOINT (-118.442829 34.0637914)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.442829 34.0637914)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;5;Le Conte Wb & Tiverton Fs
+"MULTIPOINT (-118.4644297 33.9929426)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;6;California Eb & Shell Ns
+"MULTIPOINT (-118.4454548 34.0627881)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.4454548 34.0627881)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;6;Westwood Sb & Weyburn Ns
+"MULTIPOINT (-118.4632379 33.9946463)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;7;California Eb & Oakwood Ns
+"MULTIPOINT (-118.444879 34.0598913)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.444879 34.0598913)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;7;Westwood Sb & Lindbrook Ns
+"MULTIPOINT (-118.4621109 33.9963131)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;8;California Eb & Linden Ns
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;8;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.4437386 34.0584177)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;8;Westwood Sb & Wilshire Fs
+"MULTIPOINT (-118.46101040000001 33.9978427)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;9;California Eb & Lincoln Ns
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;9;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.4424768 34.0562946)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;9;Westwood Sb & Rochester Ns
+"MULTIPOINT (-118.457291 33.9966042)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;10;Superba Eb & Lincoln Fs
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;10;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.4409185 34.0541731)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;10;Westwood Sb & Ohio Ns
+"MULTIPOINT (-118.455075 33.9997642)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;11;Superba Eb & Penmar Ns
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;11;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4375951 34.0496593)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;11;Santa Monica Wb & Westwood Fs
+"MULTIPOINT (-118.4540729 33.9986966)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;12;Penmar Sb & Amoroso Ns
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;12;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4406746 34.0488234)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;12;Santa Monica Wb & Veteran Fs
+"MULTIPOINT (-118.4529299 33.9976309)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;13;Victoria Eb & Penmar Fs
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;13;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4446801 34.04763)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;13;Santa Monica Wb & Sepulveda Fs
+"MULTIPOINT (-118.4504798 33.9989152)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;14;Victoria Eb & Louella Ns
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;14;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4480064 34.0466325)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;14;Santa Monica Wb & Sawtelle Ns
+"MULTIPOINT (-118.4486603 33.9998658)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;15;Victoria Eb & Walgrove Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;15;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4495292 34.0462613)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;15;Santa Monica Wb & Corinth Ns
+"MULTIPOINT (-118.4468006 33.9971824)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580858;16;Venice Wb & Walgrove Fs
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;16;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.4505894 34.0459357)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;16;Santa Monica Wb & Purdue Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;17;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.453914 34.0447692)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;17;Santa Monica Wb & Federal Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;18;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.4559336 34.0438288)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;18;Santa Monica Wb & Barrington Ns
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;19;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.459117 34.0424072)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;19;Santa Monica Wb & Westgate Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;20;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4611744 34.0415361)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;20;Santa Monica Wb & Brockton Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;21;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.4631153 34.0406633)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;21;Santa Monica Wb & Bundy Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;22;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.46538990000001 34.0397108)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;22;Santa Monica Wb & Wellesley Ns
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;23;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4681214 34.0383921)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;23;Santa Monica Wb & Centinela Fs
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;24;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.4695677 34.0372398)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;24;Santa Monica Wb & Berkeley Ns
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;25;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.47174320000001 34.0354981)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;25;Santa Monica Wb & Yale Fs
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;26;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.474171 34.0335156)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;26;Santa Monica Wb & 26Th Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;27;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4768914 34.0313314)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;27;Santa Monica Wb & Cloverfield Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;28;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4782104 34.0303482)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;28;Santa Monica Wb & 22Nd Ns
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;29;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4804284 34.0284256)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;29;Santa Monica Wb & 20Th Fs
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;30;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.4818567 34.0273124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;30;Santa Monica Wb & 18Th Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;31;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.48375830000001 34.0257441)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;31;Santa Monica Wb & 16Th Ns
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;32;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4856496 34.0242124)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;32;Santa Monica Wb & 14Th Ns
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;33;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.4887662 34.0216734)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;33;Santa Monica Wb & 11Th Fs
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;34;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.49127180000001 34.0196432)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;34;Santa Monica Wb & Lincoln Ns
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;35;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4931486 34.017775)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;35;6Th Sb & Santa Monica Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;36;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4938629 34.0148463)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;36;Broadway Wb & 4Th Fs
+"MULTIPOINT (-118.4948039 34.0139658)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;37;Broadway Wb & 3Rd Fs
+"MULTIPOINT (-118.4948039 34.0139658)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;37;Broadway Wb & 3Rd Fs
+"MULTIPOINT (-118.49635240000001 34.0124422)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;38;Ocean Sb & Broadway Fs
+"MULTIPOINT (-118.49635240000001 34.0124422)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;38;Ocean Sb & Broadway Fs
+"MULTIPOINT (-118.4954341 34.0116718)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;39;Ocean Sb & Colorado Ns
+"MULTIPOINT (-118.4954341 34.0116718)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;39;Ocean Sb & Colorado Ns
+"MULTIPOINT (-118.4891252 34.0072672)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;40;Main Sb & Bay Ns
+"MULTIPOINT (-118.4891252 34.0072672)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;40;Main Sb & Bay Ns
+"MULTIPOINT (-118.4876115 34.0057001)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;41;Main Sb & Pacific Ns
+"MULTIPOINT (-118.4876115 34.0057001)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;41;Main Sb & Pacific Ns
+"MULTIPOINT (-118.486286 34.0044139)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;42;Main Sb & Hollister Ns
+"MULTIPOINT (-118.486286 34.0044139)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;42;Main Sb & Hollister Ns
+"MULTIPOINT (-118.4836179 34.0019215)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;43;Main Sb & Ocean Park Fs
+"MULTIPOINT (-118.4836179 34.0019215)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;43;Main Sb & Ocean Park Fs
+"MULTIPOINT (-118.4827392 34.0010452)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;44;Main Sb & Hill Ns
+"MULTIPOINT (-118.4827392 34.0010452)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;44;Main Sb & Hill Ns
+"MULTIPOINT (-118.4813349 33.9995996)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;45;Main Sb & Ashland Ns
+"MULTIPOINT (-118.4813349 33.9995996)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;45;Main Sb & Ashland Ns
+"MULTIPOINT (-118.4799582 33.9982976)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;46;Main Sb & Marine Ns
+"MULTIPOINT (-118.4799582 33.9982976)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;46;Main Sb & Marine Ns
+"MULTIPOINT (-118.47763070000001 33.9958871)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;47;Main Sb & Rose Fs
+"MULTIPOINT (-118.47763070000001 33.9958871)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;47;Main Sb & Rose Fs
+"MULTIPOINT (-118.4760041 33.9941461)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;48;Main Sb & Sunset Fs
+"MULTIPOINT (-118.4760041 33.9941461)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;48;Main Sb & Sunset Fs
+"MULTIPOINT (-118.47397410000001 33.9919977)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;49;Main Sb & Brooks Fs
+"MULTIPOINT (-118.47397410000001 33.9919977)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;49;Main Sb & Brooks Fs
+"MULTIPOINT (-118.47275 33.9901766)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;50;Main Sb & Westminster Ns
+"MULTIPOINT (-118.47275 33.9901766)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;50;Main Sb & Westminster Ns
+"MULTIPOINT (-118.4708936 33.9875475)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;51;Main Sb & Venice Way Ns
+"MULTIPOINT (-118.4708936 33.9875475)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;51;Main Sb & Venice Way Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;52;Windward Eb & Main Ns
+"MULTIPOINT (-118.4717181 33.9879239)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;52;Windward Eb & Main Ns
+"MULTIPOINT (-118.4694585 33.9895345)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;53;Riviera Nb & Windward Fs
+"MULTIPOINT (-118.4694585 33.9895345)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;53;Riviera Nb & Windward Fs
+"MULTIPOINT (-118.4706853 33.991684)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;54;Westminster Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4706853 33.991684)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;54;Westminster Nb & Abbot Kinney Ns
+"MULTIPOINT (-118.4682018 33.9911833)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;55;Abbot Kinney Eb & Cadiz Court Ns
+"MULTIPOINT (-118.4682018 33.9911833)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;55;Abbot Kinney Eb & Cadiz Court Ns
+"MULTIPOINT (-118.4658024 33.9909461)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;56;California Eb & Abbot Kinney Fs
+"MULTIPOINT (-118.4658024 33.9909461)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;56;California Eb & Abbot Kinney Fs
+"MULTIPOINT (-118.4644297 33.9929426)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;57;California Eb & Shell Ns
+"MULTIPOINT (-118.4644297 33.9929426)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;57;California Eb & Shell Ns
+"MULTIPOINT (-118.4632379 33.9946463)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;58;California Eb & Oakwood Ns
+"MULTIPOINT (-118.4632379 33.9946463)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;58;California Eb & Oakwood Ns
+"MULTIPOINT (-118.4621109 33.9963131)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;59;California Eb & Linden Ns
+"MULTIPOINT (-118.4621109 33.9963131)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;59;California Eb & Linden Ns
+"MULTIPOINT (-118.46101040000001 33.9978427)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;60;California Eb & Lincoln Ns
+"MULTIPOINT (-118.46101040000001 33.9978427)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;60;California Eb & Lincoln Ns
+"MULTIPOINT (-118.457291 33.9966042)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;61;Superba Eb & Lincoln Fs
+"MULTIPOINT (-118.457291 33.9966042)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;61;Superba Eb & Lincoln Fs
+"MULTIPOINT (-118.455075 33.9997642)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;62;Superba Eb & Penmar Ns
+"MULTIPOINT (-118.455075 33.9997642)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;62;Superba Eb & Penmar Ns
+"MULTIPOINT (-118.4540729 33.9986966)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;63;Penmar Sb & Amoroso Ns
+"MULTIPOINT (-118.4540729 33.9986966)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;63;Penmar Sb & Amoroso Ns
+"MULTIPOINT (-118.4529299 33.9976309)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;64;Victoria Eb & Penmar Fs
+"MULTIPOINT (-118.4529299 33.9976309)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;64;Victoria Eb & Penmar Fs
+"MULTIPOINT (-118.4504798 33.9989152)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;65;Victoria Eb & Louella Ns
+"MULTIPOINT (-118.4504798 33.9989152)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;65;Victoria Eb & Louella Ns
+"MULTIPOINT (-118.4486603 33.9998658)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;66;Victoria Eb & Walgrove Ns
+"MULTIPOINT (-118.4486603 33.9998658)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;66;Victoria Eb & Walgrove Ns
+"MULTIPOINT (-118.4468006 33.9971824)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580855;67;Venice Wb & Walgrove Fs
+"MULTIPOINT (-118.4468006 33.9971824)";1;Santa Monica Blvd - Ucla;1;Line 1 Venice and Walgrove;1 - Santa Monica Blvd - Ucla - 1 - Line 1 Venice and Walgrove;580861;67;Venice Wb & Walgrove Fs

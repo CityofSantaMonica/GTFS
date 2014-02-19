@@ -1,0 +1,53 @@
+WKT;WKT;route_short_name;route_long_name;direction_id;trip_headsign;headsign;trip_id;stop_sequence;stop_name
+"MULTIPOINT (-118.4459872 34.0152346)";MULTIPOINT (-118.4459872 34.0152346);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;1;Smc Bundy Campus Parking Lot
+"MULTIPOINT (-118.4459872 34.0152346)";MULTIPOINT (-118.4459872 34.0152346);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;1;Smc Bundy Campus Parking Lot
+"MULTIPOINT (-118.4712444 34.0184298)";MULTIPOINT (-118.4712444 34.0184298);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;1;Pico Eb & 18Th Fs
+"MULTIPOINT (-118.4471245 34.0150601)";MULTIPOINT (-118.4471245 34.0150601);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;2;Donald Douglas Loop Nb & Airport Ns
+"MULTIPOINT (-118.4471245 34.0150601)";MULTIPOINT (-118.4471245 34.0150601);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;2;Donald Douglas Loop Nb & Airport Ns
+"MULTIPOINT (-118.4693194 34.0192009)";MULTIPOINT (-118.4693194 34.0192009);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;2;20Th Sb & Pico Fs
+"MULTIPOINT (-118.4448682 34.0203926)";MULTIPOINT (-118.4448682 34.0203926);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;3;Bundy Nb & National Fs
+"MULTIPOINT (-118.4448682 34.0203926)";MULTIPOINT (-118.4448682 34.0203926);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;3;Bundy Nb & National Fs
+"MULTIPOINT (-118.4638168 34.0141667)";MULTIPOINT (-118.4638168 34.0141667);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;3;Ocean Park Eb & 21St Ns
+"MULTIPOINT (-118.4491529 34.0229807)";MULTIPOINT (-118.4491529 34.0229807);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;4;Ocean Park Wb & Centinela Fs
+"MULTIPOINT (-118.4491529 34.0229807)";MULTIPOINT (-118.4491529 34.0229807);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;4;Ocean Park Wb & Centinela Fs
+"MULTIPOINT (-118.4616087 34.0154761)";MULTIPOINT (-118.4616087 34.0154761);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;4;Ocean Park Eb & 23Rd Fs
+"MULTIPOINT (-118.4528156 34.0207606)";MULTIPOINT (-118.4528156 34.0207606);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;5;Ocean Park Wb & 31St Ns
+"MULTIPOINT (-118.4528156 34.0207606)";MULTIPOINT (-118.4528156 34.0207606);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;5;Ocean Park Wb & 31St Ns
+"MULTIPOINT (-118.4581239 34.0174419)";MULTIPOINT (-118.4581239 34.0174419);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;5;Ocean Park Eb & 25Th Fs
+"MULTIPOINT (-118.4563407 34.0187154)";MULTIPOINT (-118.4563407 34.0187154);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;6;Ocean Park Wb & 28Th Fs
+"MULTIPOINT (-118.4563407 34.0187154)";MULTIPOINT (-118.4563407 34.0187154);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;6;Ocean Park Wb & 28Th Fs
+"MULTIPOINT (-118.4555491 34.0189395)";MULTIPOINT (-118.4555491 34.0189395);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;6;Ocean Park Eb & 28Th Fs
+"MULTIPOINT (-118.4583872 34.017531)";MULTIPOINT (-118.4583872 34.017531);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;7;Ocean Park Wb & 25Th Ns
+"MULTIPOINT (-118.4583872 34.017531)";MULTIPOINT (-118.4583872 34.017531);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;7;Ocean Park Wb & 25Th Ns
+"MULTIPOINT (-118.4520667 34.0209503)";MULTIPOINT (-118.4520667 34.0209503);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;7;Ocean Park Eb & 31St Fs
+"MULTIPOINT (-118.4620946 34.0153678)";MULTIPOINT (-118.4620946 34.0153678);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;8;Ocean Park Wb & 23Rd Fs
+"MULTIPOINT (-118.4620946 34.0153678)";MULTIPOINT (-118.4620946 34.0153678);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;8;Ocean Park Wb & 23Rd Fs
+"MULTIPOINT (-118.44899030000001 34.0228176)";MULTIPOINT (-118.44899030000001 34.0228176);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;8;Ocean Park Eb & Centinela Ns
+"MULTIPOINT (-118.46398720000001 34.0142625)";MULTIPOINT (-118.46398720000001 34.0142625);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;9;Ocean Park Wb & 21St Fs
+"MULTIPOINT (-118.46398720000001 34.0142625)";MULTIPOINT (-118.46398720000001 34.0142625);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;9;Ocean Park Wb & 21St Fs
+"MULTIPOINT (-118.4461258 34.0240358)";MULTIPOINT (-118.4461258 34.0240358);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;9;Bundy Sb & Ocean Park Fs
+"MULTIPOINT (-118.466773 34.0125962)";MULTIPOINT (-118.466773 34.0125962);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;10;Ocean Park Wb & 17Th Ns
+"MULTIPOINT (-118.466773 34.0125962)";MULTIPOINT (-118.466773 34.0125962);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;10;Ocean Park Wb & 17Th Ns
+"MULTIPOINT (-118.4450209 34.0202065)";MULTIPOINT (-118.4450209 34.0202065);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;10;Bundy Sb & National Ns
+"MULTIPOINT (-118.4695196 34.01512)";MULTIPOINT (-118.4695196 34.01512);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;11;17Th Nb & Pearl Ns
+"MULTIPOINT (-118.4695196 34.01512)";MULTIPOINT (-118.4695196 34.01512);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;11;17Th Nb & Pearl Ns
+"MULTIPOINT (-118.4434425 34.0164902)";MULTIPOINT (-118.4434425 34.0164902);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;11;Bundy Sb & Airport Fs
+"MULTIPOINT (-118.4714177 34.0143856)";MULTIPOINT (-118.4714177 34.0143856);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;12;Pearl Wb & 16Th Ns
+"MULTIPOINT (-118.4714177 34.0143856)";MULTIPOINT (-118.4714177 34.0143856);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;12;Pearl Wb & 16Th Ns
+"MULTIPOINT (-118.4459872 34.0152346)";MULTIPOINT (-118.4459872 34.0152346);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583786;12;Smc Bundy Campus Parking Lot
+"MULTIPOINT (-118.4736037 34.0171987)";MULTIPOINT (-118.4736037 34.0171987);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;13;Pico Eb & 16Th Fs
+"MULTIPOINT (-118.4736037 34.0171987)";MULTIPOINT (-118.4736037 34.0171987);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;13;Pico Eb & 16Th Fs
+"MULTIPOINT (-118.4712444 34.0184298)";MULTIPOINT (-118.4712444 34.0184298);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;14;Pico Eb & 18Th Fs
+"MULTIPOINT (-118.4712444 34.0184298)";MULTIPOINT (-118.4712444 34.0184298);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;14;Pico Eb & 18Th Fs
+"MULTIPOINT (-118.4693194 34.0192009)";MULTIPOINT (-118.4693194 34.0192009);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583820;15;20Th Sb & Pico Fs
+"MULTIPOINT (-118.4693194 34.0192009)";MULTIPOINT (-118.4693194 34.0192009);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;15;20Th Sb & Pico Fs
+"MULTIPOINT (-118.4638168 34.0141667)";MULTIPOINT (-118.4638168 34.0141667);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;16;Ocean Park Eb & 21St Ns
+"MULTIPOINT (-118.4616087 34.0154761)";MULTIPOINT (-118.4616087 34.0154761);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;17;Ocean Park Eb & 23Rd Fs
+"MULTIPOINT (-118.4581239 34.0174419)";MULTIPOINT (-118.4581239 34.0174419);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;18;Ocean Park Eb & 25Th Fs
+"MULTIPOINT (-118.4555491 34.0189395)";MULTIPOINT (-118.4555491 34.0189395);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;19;Ocean Park Eb & 28Th Fs
+"MULTIPOINT (-118.4520667 34.0209503)";MULTIPOINT (-118.4520667 34.0209503);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;20;Ocean Park Eb & 31St Fs
+"MULTIPOINT (-118.44899030000001 34.0228176)";MULTIPOINT (-118.44899030000001 34.0228176);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;21;Ocean Park Eb & Centinela Ns
+"MULTIPOINT (-118.4461258 34.0240358)";MULTIPOINT (-118.4461258 34.0240358);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;22;Bundy Sb & Ocean Park Fs
+"MULTIPOINT (-118.4450209 34.0202065)";MULTIPOINT (-118.4450209 34.0202065);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;23;Bundy Sb & National Ns
+"MULTIPOINT (-118.4434425 34.0164902)";MULTIPOINT (-118.4434425 34.0164902);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;24;Bundy Sb & Airport Fs
+"MULTIPOINT (-118.4459872 34.0152346)";MULTIPOINT (-118.4459872 34.0152346);44;Sunset Ride;0;Line 44 Sunset Ride;44 - Sunset Ride - 0 - Line 44 Sunset Ride;583787;25;Smc Bundy Campus Parking Lot
