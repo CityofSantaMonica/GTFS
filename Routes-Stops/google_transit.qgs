@@ -4,10 +4,10 @@
     <mapcanvas>
         <units>meters</units>
         <extent>
-            <xmin>-13191231.4890777412801981</xmin>
-            <ymin>4028548.83840690553188324</ymin>
-            <xmax>-13186685.32124065794050694</xmax>
-            <ymax>4031310.7910586129873991</ymax>
+            <xmin>-13197686.8632156029343605</xmin>
+            <ymin>4018255.81291137356311083</ymin>
+            <xmax>-13161246.91937997192144394</xmax>
+            <ymax>4039203.46695039141923189</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -23,10 +23,10 @@
             </spatialrefsys>
         </destinationsrs>
     </mapcanvas>
-    <legend updateDrawingOrder="true" activeLayer="distinct_trip_stops20140218160541443">
-        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="distinct_trip_stops [3650]" showFeatureCount="1">
+    <legend updateDrawingOrder="true" activeLayer="distinct_route_stops20140219081115812">
+        <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="distinct_route_stops" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="distinct_trip_stops20140218160541443" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="distinct_route_stops20140219081115812" visible="1"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Google Streets" showFeatureCount="0">
@@ -59,15 +59,15 @@
             </srs>
             <customproperties/>
         </maplayer>
-        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
-            <id>distinct_trip_stops20140218160541443</id>
-            <datasource>dbname='./google_transit.sqlite' key='ROWID' table="distinct_trip_stops" (Geometry) sql=</datasource>
+        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+            <id>distinct_route_stops20140219081115812</id>
+            <datasource>dbname='./google_transit.sqlite' key='ROWID' table="distinct_route_stops" (Geometry) sql=</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
                 <value></value>
             </keywordList>
-            <layername>distinct_trip_stops</layername>
+            <layername>distinct_route_stops</layername>
             <srs>
                 <spatialrefsys>
                     <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
@@ -83,104 +83,34 @@
             <provider encoding="UTF-8">spatialite</provider>
             <previewExpression></previewExpression>
             <vectorjoins/>
-            <renderer-v2 attr="headsign" symbollevels="1" type="categorizedSymbol">
+            <renderer-v2 attr="trip_headsign" symbollevels="0" type="categorizedSymbol">
                 <categories>
-                    <category symbol="0" value="9 Santa Monica / Santa Monica &amp; 4th (1)" label="9 Santa Monica / Santa Monica &amp; 4th (1)"/>
-                    <category symbol="1" value="9 Santa Monica / Santa Monica &amp; 4th (10)" label="9 Santa Monica / Santa Monica &amp; 4th (10)"/>
-                    <category symbol="2" value="9 Santa Monica / Santa Monica &amp; 4th (2)" label="9 Santa Monica / Santa Monica &amp; 4th (2)"/>
-                    <category symbol="3" value="Line 1 California &amp; Lincoln (1)" label="Line 1 California &amp; Lincoln (1)"/>
-                    <category symbol="4" value="Line 1 California and Lincoln (1)" label="Line 1 California and Lincoln (1)"/>
-                    <category symbol="5" value="Line 1 California and Lincoln (2)" label="Line 1 California and Lincoln (2)"/>
-                    <category symbol="6" value="Line 1 Lincoln and California (1)" label="Line 1 Lincoln and California (1)"/>
-                    <category symbol="7" value="Line 1 Lincoln and California (2)" label="Line 1 Lincoln and California (2)"/>
-                    <category symbol="8" value="Line 1 Santa Monica and 6th ONLY (1)" label="Line 1 Santa Monica and 6th ONLY (1)"/>
-                    <category symbol="9" value="Line 1 Santa Monica and 6th ONLY (10)" label="Line 1 Santa Monica and 6th ONLY (10)"/>
-                    <category symbol="10" value="Line 1 Santa Monica and 6th ONLY (2)" label="Line 1 Santa Monica and 6th ONLY (2)"/>
-                    <category symbol="11" value="Line 1 Santa Monica/ 4th &amp; Broadway Only (1)" label="Line 1 Santa Monica/ 4th &amp; Broadway Only (1)"/>
-                    <category symbol="12" value="Line 1 Santa Monica/ 4th &amp; Broadway Only (10)" label="Line 1 Santa Monica/ 4th &amp; Broadway Only (10)"/>
-                    <category symbol="13" value="Line 1 Santa Monica/ 4th &amp; Broadway Only (2)" label="Line 1 Santa Monica/ 4th &amp; Broadway Only (2)"/>
-                    <category symbol="14" value="Line 1 Santa Monica/4th &amp; Broadway Only (10)" label="Line 1 Santa Monica/4th &amp; Broadway Only (10)"/>
-                    <category symbol="15" value="Line 1 UCLA (1)" label="Line 1 UCLA (1)"/>
-                    <category symbol="16" value="Line 1 UCLA (10)" label="Line 1 UCLA (10)"/>
-                    <category symbol="17" value="Line 1 UCLA (2)" label="Line 1 UCLA (2)"/>
-                    <category symbol="18" value="Line 1 Venice and Walgrove (10)" label="Line 1 Venice and Walgrove (10)"/>
-                    <category symbol="19" value="Line 1 Venice Circle (1)" label="Line 1 Venice Circle (1)"/>
-                    <category symbol="20" value="Line 1 Venice Circle (10)" label="Line 1 Venice Circle (10)"/>
-                    <category symbol="21" value="Line 1 Venice Circle (2)" label="Line 1 Venice Circle (2)"/>
-                    <category symbol="22" value="Line 12 Expo- Culver City (1)" label="Line 12 Expo- Culver City (1)"/>
-                    <category symbol="23" value="Line 12 Expo- Culver City (10)" label="Line 12 Expo- Culver City (10)"/>
-                    <category symbol="24" value="Line 12 Expo- Culver City (2)" label="Line 12 Expo- Culver City (2)"/>
-                    <category symbol="25" value="Line 12 UCLA (1)" label="Line 12 UCLA (1)"/>
-                    <category symbol="26" value="Line 12 UCLA (10)" label="Line 12 UCLA (10)"/>
-                    <category symbol="27" value="Line 12 UCLA (2)" label="Line 12 UCLA (2)"/>
-                    <category symbol="28" value="Line 13 Cheviot Hills (10)" label="Line 13 Cheviot Hills (10)"/>
-                    <category symbol="29" value="Line 13 Cheviot Hills/Rimpau Terminal (10)" label="Line 13 Cheviot Hills/Rimpau Terminal (10)"/>
-                    <category symbol="30" value="Line 14 Bundy/ Culver and Centinela (1)" label="Line 14 Bundy/ Culver and Centinela (1)"/>
-                    <category symbol="31" value="Line 14 Bundy/ Culver and Centinela (10)" label="Line 14 Bundy/ Culver and Centinela (10)"/>
-                    <category symbol="32" value="Line 14 Bundy/ Culver and Centinela (2)" label="Line 14 Bundy/ Culver and Centinela (2)"/>
-                    <category symbol="33" value="Line 14 Bundy/Barrington and Sunset (1)" label="Line 14 Bundy/Barrington and Sunset (1)"/>
-                    <category symbol="34" value="Line 14 Bundy/Barrington and Sunset (10)" label="Line 14 Bundy/Barrington and Sunset (10)"/>
-                    <category symbol="35" value="Line 14 Bundy/Barrington and Sunset (2)" label="Line 14 Bundy/Barrington and Sunset (2)"/>
-                    <category symbol="36" value="Line 14 Bundy/Sepulveda and Moraga (1)" label="Line 14 Bundy/Sepulveda and Moraga (1)"/>
-                    <category symbol="37" value="Line 14 Bundy/Sepulveda and Moraga (10)" label="Line 14 Bundy/Sepulveda and Moraga (10)"/>
-                    <category symbol="38" value="Line 14 Bundy/Sepulveda and Moraga (2)" label="Line 14 Bundy/Sepulveda and Moraga (2)"/>
-                    <category symbol="39" value="Line 2 Santa Monica / 4th and Civic Center (10)" label="Line 2 Santa Monica / 4th and Civic Center (10)"/>
-                    <category symbol="40" value="Line 2 Santa Monica / 4th and Santa Monica (1)" label="Line 2 Santa Monica / 4th and Santa Monica (1)"/>
-                    <category symbol="41" value="Line 2 Santa Monica / 4th and Santa Monica (10)" label="Line 2 Santa Monica / 4th and Santa Monica (10)"/>
-                    <category symbol="42" value="Line 2 Santa Monica / 4th and Santa Monica (2)" label="Line 2 Santa Monica / 4th and Santa Monica (2)"/>
-                    <category symbol="43" value="Line 2 Santa Monica/ 4th and Civic Center (1)" label="Line 2 Santa Monica/ 4th and Civic Center (1)"/>
-                    <category symbol="44" value="Line 2 Santa Monica/ 4th and Civic Center (10)" label="Line 2 Santa Monica/ 4th and Civic Center (10)"/>
-                    <category symbol="45" value="Line 2 Santa Monica/ 4th and Civic Center (2)" label="Line 2 Santa Monica/ 4th and Civic Center (2)"/>
-                    <category symbol="46" value="Line 2 UCLA (1)" label="Line 2 UCLA (1)"/>
-                    <category symbol="47" value="Line 2 UCLA (10)" label="Line 2 UCLA (10)"/>
-                    <category symbol="48" value="Line 2 UCLA (2)" label="Line 2 UCLA (2)"/>
-                    <category symbol="49" value="Line 3  UCLA (10)" label="Line 3  UCLA (10)"/>
-                    <category symbol="50" value="Line 3 5th &amp; Arizona Only (1)" label="Line 3 5th &amp; Arizona Only (1)"/>
-                    <category symbol="51" value="Line 3 5th &amp; Arizona Only (10)" label="Line 3 5th &amp; Arizona Only (10)"/>
-                    <category symbol="52" value="Line 3 5th &amp; Arizona Only (2)" label="Line 3 5th &amp; Arizona Only (2)"/>
-                    <category symbol="53" value="Line 3 Gorham &amp; San Vicente Only (2)" label="Line 3 Gorham &amp; San Vicente Only (2)"/>
-                    <category symbol="54" value="Line 3 Green Line Station (1)" label="Line 3 Green Line Station (1)"/>
-                    <category symbol="55" value="Line 3 Green Line Station (10)" label="Line 3 Green Line Station (10)"/>
-                    <category symbol="56" value="Line 3 Green Line Station (2)" label="Line 3 Green Line Station (2)"/>
-                    <category symbol="57" value="Line 4 4th and Santa Monica Civic Center (1)" label="Line 4 4th and Santa Monica Civic Center (1)"/>
-                    <category symbol="58" value="Line 4 4th and Santa Monica Civic Center (10)" label="Line 4 4th and Santa Monica Civic Center (10)"/>
-                    <category symbol="59" value="Line 4 4th and Santa Monica Civic Center (2)" label="Line 4 4th and Santa Monica Civic Center (2)"/>
-                    <category symbol="60" value="Line 4 Santa Monica/ Broadway and 4th Only (1)" label="Line 4 Santa Monica/ Broadway and 4th Only (1)"/>
-                    <category symbol="61" value="Line 4 Santa Monica/ Broadway and 4th Only (2)" label="Line 4 Santa Monica/ Broadway and 4th Only (2)"/>
-                    <category symbol="62" value="Line 4 Westide Pavilion/ Sawtelle and Olympic (10)" label="Line 4 Westide Pavilion/ Sawtelle and Olympic (10)"/>
-                    <category symbol="63" value="Line 4 Westside Pavilion (1)" label="Line 4 Westside Pavilion (1)"/>
-                    <category symbol="64" value="Line 4 Westside Pavilion (10)" label="Line 4 Westside Pavilion (10)"/>
-                    <category symbol="65" value="Line 4 Westside Pavilion (2)" label="Line 4 Westside Pavilion (2)"/>
-                    <category symbol="66" value="Line 41 Crosstown Ride (10)" label="Line 41 Crosstown Ride (10)"/>
-                    <category symbol="67" value="Line 41 Crosstown Ride/ Montana Only (10)" label="Line 41 Crosstown Ride/ Montana Only (10)"/>
-                    <category symbol="68" value="Line 44 Sunset Ride (10)" label="Line 44 Sunset Ride (10)"/>
-                    <category symbol="69" value="Line 6 SMC Commuter (10)" label="Line 6 SMC Commuter (10)"/>
-                    <category symbol="70" value="Line 6 SMC Commuter (54710)" label="Line 6 SMC Commuter (54710)"/>
-                    <category symbol="71" value="Line 8 Santa Monica / Ocean Park (1)" label="Line 8 Santa Monica / Ocean Park (1)"/>
-                    <category symbol="72" value="Line 8 Santa Monica / Ocean Park (10)" label="Line 8 Santa Monica / Ocean Park (10)"/>
-                    <category symbol="73" value="Line 8 Santa Monica / Ocean Park (2)" label="Line 8 Santa Monica / Ocean Park (2)"/>
-                    <category symbol="74" value="Line 8 SM Civic Center (1)" label="Line 8 SM Civic Center (1)"/>
-                    <category symbol="75" value="Line 8 SM Civic Center (2)" label="Line 8 SM Civic Center (2)"/>
-                    <category symbol="76" value="Line 8 UCLA (1)" label="Line 8 UCLA (1)"/>
-                    <category symbol="77" value="Line 8 UCLA (10)" label="Line 8 UCLA (10)"/>
-                    <category symbol="78" value="Line 8 UCLA (2)" label="Line 8 UCLA (2)"/>
-                    <category symbol="79" value="Line 9 Pacific Palisades / Sunset and Marquez (1)" label="Line 9 Pacific Palisades / Sunset and Marquez (1)"/>
-                    <category symbol="80" value="Line 9 Pacific Palisades / Sunset and Marquez (10)" label="Line 9 Pacific Palisades / Sunset and Marquez (10)"/>
-                    <category symbol="81" value="Line 9 Pacific Palisades / Sunset and Marquez (2)" label="Line 9 Pacific Palisades / Sunset and Marquez (2)"/>
-                    <category symbol="82" value="Rapid 12 Expo-Culver City (10)" label="Rapid 12 Expo-Culver City (10)"/>
-                    <category symbol="83" value="Rapid 12 UCLA (10)" label="Rapid 12 UCLA (10)"/>
-                    <category symbol="84" value="Rapid 20 Expo-Culver City (1)" label="Rapid 20 Expo-Culver City (1)"/>
-                    <category symbol="85" value="Rapid 20 Expo-Culver City (10)" label="Rapid 20 Expo-Culver City (10)"/>
-                    <category symbol="86" value="Rapid 20 Santa Monica/ 4th and Broadway (1)" label="Rapid 20 Santa Monica/ 4th and Broadway (1)"/>
-                    <category symbol="87" value="Rapid 20 Santa Monica/ 4th and Broadway (10)" label="Rapid 20 Santa Monica/ 4th and Broadway (10)"/>
-                    <category symbol="88" value="Rapid 3 LAX/ Metro Green Line Station (10)" label="Rapid 3 LAX/ Metro Green Line Station (10)"/>
-                    <category symbol="89" value="Rapid 3 Santa Monica (10)" label="Rapid 3 Santa Monica (10)"/>
-                    <category symbol="90" value="Santa Monica/ 4th and Civic Center (1)" label="Santa Monica/ 4th and Civic Center (1)"/>
-                    <category symbol="91" value="Santa Monica/ 4th and Civic Center (10)" label="Santa Monica/ 4th and Civic Center (10)"/>
-                    <category symbol="92" value="Santa Monica/ 4th and Civic Center (2)" label="Santa Monica/ 4th and Civic Center (2)"/>
-                    <category symbol="93" value="UCLA (1)" label="UCLA (1)"/>
-                    <category symbol="94" value="UCLA (10)" label="UCLA (10)"/>
-                    <category symbol="95" value="" label=""/>
+                    <category symbol="0" value="" label=""/>
+                    <category symbol="1" value="Line 1 UCLA" label="Line 1 UCLA"/>
+                    <category symbol="2" value="Line 1 Venice Circle" label="Line 1 Venice Circle"/>
+                    <category symbol="3" value="Line 12 Expo- Culver City" label="Line 12 Expo- Culver City"/>
+                    <category symbol="4" value="Line 12 UCLA" label="Line 12 UCLA"/>
+                    <category symbol="5" value="Line 13 Cheviot Hills" label="Line 13 Cheviot Hills"/>
+                    <category symbol="6" value="Line 13 Cheviot Hills/Rimpau Terminal" label="Line 13 Cheviot Hills/Rimpau Terminal"/>
+                    <category symbol="7" value="Line 14 Bundy/ Culver and Centinela" label="Line 14 Bundy/ Culver and Centinela"/>
+                    <category symbol="8" value="Line 2 UCLA" label="Line 2 UCLA"/>
+                    <category symbol="9" value="Line 3 Green Line Station" label="Line 3 Green Line Station"/>
+                    <category symbol="10" value="Line 4 Santa Monica/ Broadway and 4th Only" label="Line 4 Santa Monica/ Broadway and 4th Only"/>
+                    <category symbol="11" value="Line 4 Westside Pavilion" label="Line 4 Westside Pavilion"/>
+                    <category symbol="12" value="Line 41 Crosstown Ride" label="Line 41 Crosstown Ride"/>
+                    <category symbol="13" value="Line 44 Sunset Ride" label="Line 44 Sunset Ride"/>
+                    <category symbol="14" value="Line 6 SMC Commuter" label="Line 6 SMC Commuter"/>
+                    <category symbol="15" value="Line 8 Santa Monica / Ocean Park" label="Line 8 Santa Monica / Ocean Park"/>
+                    <category symbol="16" value="Line 8 UCLA" label="Line 8 UCLA"/>
+                    <category symbol="17" value="Line 9 Pacific Palisades / Sunset and Marquez" label="Line 9 Pacific Palisades / Sunset and Marquez"/>
+                    <category symbol="18" value="Rapid 12 Expo-Culver City" label="Rapid 12 Expo-Culver City"/>
+                    <category symbol="19" value="Rapid 12 UCLA" label="Rapid 12 UCLA"/>
+                    <category symbol="20" value="Rapid 20 Expo-Culver City" label="Rapid 20 Expo-Culver City"/>
+                    <category symbol="21" value="Rapid 20 Santa Monica/ 4th and Broadway" label="Rapid 20 Santa Monica/ 4th and Broadway"/>
+                    <category symbol="22" value="Rapid 3 LAX/ Metro Green Line Station" label="Rapid 3 LAX/ Metro Green Line Station"/>
+                    <category symbol="23" value="Rapid 3 Santa Monica" label="Rapid 3 Santa Monica"/>
+                    <category symbol="24" value="Santa Monica/ 4th and Civic Center" label="Santa Monica/ 4th and Civic Center"/>
+                    <category symbol="25" value="UCLA" label="UCLA"/>
                 </categories>
                 <symbols>
                     <symbol alpha="1" type="marker" name="0">
@@ -201,7 +131,7 @@
                     <symbol alpha="1" type="marker" name="1">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="216,31,30,255"/>
+                            <prop k="color" v="220,47,38,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -216,7 +146,7 @@
                     <symbol alpha="1" type="marker" name="10">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="231,87,57,255"/>
+                            <prop k="color" v="254,217,147,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -231,7 +161,7 @@
                     <symbol alpha="1" type="marker" name="11">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="232,94,59,255"/>
+                            <prop k="color" v="254,230,162,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -246,7 +176,7 @@
                     <symbol alpha="1" type="marker" name="12">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="234,100,62,255"/>
+                            <prop k="color" v="254,242,176,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -261,7 +191,7 @@
                     <symbol alpha="1" type="marker" name="13">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="235,106,65,255"/>
+                            <prop k="color" v="255,255,191,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -276,7 +206,7 @@
                     <symbol alpha="1" type="marker" name="14">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="237,112,68,255"/>
+                            <prop k="color" v="242,249,186,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -291,7 +221,7 @@
                     <symbol alpha="1" type="marker" name="15">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="239,119,71,255"/>
+                            <prop k="color" v="229,244,182,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -306,7 +236,7 @@
                     <symbol alpha="1" type="marker" name="16">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="240,125,74,255"/>
+                            <prop k="color" v="216,239,178,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -321,7 +251,7 @@
                     <symbol alpha="1" type="marker" name="17">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="242,131,77,255"/>
+                            <prop k="color" v="203,234,174,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -336,7 +266,7 @@
                     <symbol alpha="1" type="marker" name="18">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="243,137,80,255"/>
+                            <prop k="color" v="190,228,170,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -351,7 +281,7 @@
                     <symbol alpha="1" type="marker" name="19">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="245,144,83,255"/>
+                            <prop k="color" v="177,223,166,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -366,7 +296,7 @@
                     <symbol alpha="1" type="marker" name="2">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="218,37,33,255"/>
+                            <prop k="color" v="226,70,49,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -381,7 +311,7 @@
                     <symbol alpha="1" type="marker" name="20">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="247,150,86,255"/>
+                            <prop k="color" v="161,214,165,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -396,7 +326,7 @@
                     <symbol alpha="1" type="marker" name="21">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="248,156,89,255"/>
+                            <prop k="color" v="141,200,169,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -411,7 +341,7 @@
                     <symbol alpha="1" type="marker" name="22">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="250,163,91,255"/>
+                            <prop k="color" v="121,186,172,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -426,7 +356,7 @@
                     <symbol alpha="1" type="marker" name="23">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="251,169,94,255"/>
+                            <prop k="color" v="102,172,175,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -441,7 +371,7 @@
                     <symbol alpha="1" type="marker" name="24">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="253,174,97,255"/>
+                            <prop k="color" v="82,158,179,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -456,67 +386,7 @@
                     <symbol alpha="1" type="marker" name="25">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="253,178,101,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="26">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,181,105,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="27">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,185,109,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="28">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,188,113,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="29">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,191,117,255"/>
+                            <prop k="color" v="62,144,182,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -531,157 +401,7 @@
                     <symbol alpha="1" type="marker" name="3">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="219,43,36,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="30">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,195,121,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="31">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,198,125,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="32">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,202,129,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="33">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,205,133,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="34">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,208,137,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="35">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,212,141,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="36">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,215,145,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="37">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,219,149,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="38">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,222,153,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="39">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,226,157,255"/>
+                            <prop k="color" v="232,93,59,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -696,157 +416,7 @@
                     <symbol alpha="1" type="marker" name="4">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="221,50,39,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="40">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,229,161,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="41">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,232,165,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="42">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,236,169,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="43">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,239,173,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="44">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,243,177,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="45">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,246,181,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="46">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,249,185,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="47">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="254,253,189,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="48">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="253,254,190,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="49">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="249,252,189,255"/>
+                            <prop k="color" v="238,116,70,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -861,157 +431,7 @@
                     <symbol alpha="1" type="marker" name="5">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="223,56,42,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="50">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="246,251,188,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="51">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="242,249,187,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="52">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="239,248,185,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="53">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="235,247,184,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="54">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="232,245,183,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="55">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="228,244,182,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="56">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="224,242,181,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="57">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="221,241,180,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="58">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="217,239,179,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="59">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="214,238,177,255"/>
+                            <prop k="color" v="244,139,81,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -1026,157 +446,7 @@
                     <symbol alpha="1" type="marker" name="6">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="224,62,45,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="60">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="210,237,176,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="61">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="207,235,175,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="62">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="203,234,174,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="63">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="200,232,173,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="64">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="196,231,172,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="65">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="193,229,171,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="66">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="189,228,169,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="67">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="186,227,168,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="68">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="182,225,167,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="69">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="178,224,166,255"/>
+                            <prop k="color" v="250,162,91,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -1191,157 +461,7 @@
                     <symbol alpha="1" type="marker" name="7">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="226,68,48,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="70">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="175,222,165,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="71">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="171,221,164,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="72">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="166,218,164,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="73">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="161,214,165,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="74">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="156,210,166,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="75">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="150,206,167,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="76">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="145,203,168,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="77">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="140,199,169,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="78">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="134,195,170,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="79">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="129,191,171,255"/>
+                            <prop k="color" v="253,180,104,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -1356,157 +476,7 @@
                     <symbol alpha="1" type="marker" name="8">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="227,75,51,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="80">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="123,187,172,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="81">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="118,184,173,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="82">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="113,180,173,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="83">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="107,176,174,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="84">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="102,172,175,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="85">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="96,168,176,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="86">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="91,165,177,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="87">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="86,161,178,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="88">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="80,157,179,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="89">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="75,153,180,255"/>
+                            <prop k="color" v="253,192,118,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -1521,97 +491,7 @@
                     <symbol alpha="1" type="marker" name="9">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="229,81,54,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="90">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="69,149,181,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="91">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="64,146,182,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="92">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="59,142,183,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="93">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="53,138,184,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="94">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="48,134,185,255"/>
-                            <prop k="color_border" v="0,0,0,255"/>
-                            <prop k="name" v="circle"/>
-                            <prop k="offset" v="0,0"/>
-                            <prop k="offset_unit" v="MM"/>
-                            <prop k="outline_width" v="0"/>
-                            <prop k="outline_width_unit" v="MM"/>
-                            <prop k="scale_method" v="area"/>
-                            <prop k="size" v="2"/>
-                            <prop k="size_unit" v="MM"/>
-                        </layer>
-                    </symbol>
-                    <symbol alpha="1" type="marker" name="95">
-                        <layer pass="0" class="SimpleMarker" locked="0">
-                            <prop k="angle" v="0"/>
-                            <prop k="color" v="43,131,186,255"/>
+                            <prop k="color" v="253,205,133,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -1628,7 +508,7 @@
                     <symbol alpha="1" type="marker" name="0">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="72,136,170,255"/>
+                            <prop k="color" v="233,157,251,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -1771,7 +651,7 @@
             <blendMode>0</blendMode>
             <featureBlendMode>0</featureBlendMode>
             <layerTransparency>0</layerTransparency>
-            <displayfield>service_id</displayfield>
+            <displayfield>route_short_name</displayfield>
             <label>0</label>
             <labelattributes>
                 <label fieldname="" text="Label"/>
@@ -1794,9 +674,9 @@
                 <selectedonly on=""/>
             </labelattributes>
             <edittypes>
-                <edittype labelontop="0" editable="1" type="0" name="headsign"/>
-                <edittype labelontop="0" editable="1" type="0" name="service_id"/>
-                <edittype labelontop="0" editable="1" type="0" name="stop_id"/>
+                <edittype labelontop="0" editable="1" type="0" name="direction_id"/>
+                <edittype labelontop="0" editable="1" type="0" name="route_long_name"/>
+                <edittype labelontop="0" editable="1" type="0" name="route_short_name"/>
                 <edittype labelontop="0" editable="1" type="0" name="stop_sequence"/>
                 <edittype labelontop="0" editable="1" type="0" name="trip_headsign"/>
             </edittypes>
