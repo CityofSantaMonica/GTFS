@@ -1,7 +1,7 @@
 (dp0
 S'query_table'
 p1
-V"distinct_routes", "trips", "stop_times", "stops"
+V"distinct_routes", "stop_times", "stops"
 p2
 sS'coltables'
 p3
@@ -20,7 +20,7 @@ VH:/google_transit/google_transit.sqlite
 p10
 sS'query_where'
 p11
-V"distinct_routes".'trip_id' = "trips".'trip_id'\u000aand \u000a"trips".'trip_id' = "stop_times".'trip_id'\u000aand\u000a"stop_times".'stop_id' = "stops".'stop_id'
+V"distinct_routes".'trip_id' = "stop_times".'trip_id'\u000aand\u000a"stop_times".'stop_id' = "stops".'stop_id'
 p12
 sS'col_col'
 p13
@@ -37,29 +37,41 @@ aV"stop_times".'stop_sequence'
 p19
 aV"stops".'Geometry'
 p20
-asS'query_group'
+aV"distinct_routes".'headsign'
 p21
-V
+aV"distinct_routes".'trip_id'
 p22
-sS'query_order'
+aV"distinct_routes".'trip_headsign'
 p23
-V"distinct_routes".'route_short_name',\u000a"distinct_routes".'route_long_name',\u000a"distinct_routes".'direction_id',\u000a"trips".'trip_headsign',\u000a"stop_times".'stop_sequence'
+aV"stop_times".'stop_sequence'
 p24
-sS'col_where'
+aV"stops".'stop_name'
 p25
-(lp26
-V"distinct_routes".'trip_id'
+aV"stops".'Geometry'
+p26
+asS'query_group'
 p27
-aV"stop_times".'trip_id'
+V
 p28
-aV"stop_times".'stop_id'
+sS'query_order'
 p29
-aV"stops".'stop_id'
+V"distinct_routes".'headsign',"stop_times".'stop_sequence'
 p30
-aV"trips".'trip_id'
+sS'col_where'
 p31
-asS'query_cols'
-p32
-V"distinct_routes".'route_short_name',\u000a"distinct_routes".'route_long_name',\u000a"distinct_routes".'direction_id',\u000a"trips".'trip_headsign',\u000a"stop_times".'stop_sequence',\u000a"stops".'Geometry' AS Geometry
+(lp32
+V"distinct_routes".'trip_id'
 p33
+aV"stop_times".'trip_id'
+p34
+aV"stop_times".'stop_id'
+p35
+aV"stops".'stop_id'
+p36
+aV"trips".'trip_id'
+p37
+asS'query_cols'
+p38
+V"distinct_routes".'route_short_name',\u000a"distinct_routes".'route_long_name',\u000a"distinct_routes".'direction_id',\u000a"distinct_routes".'trip_headsign',\u000a"distinct_routes".'headsign',\u000a"distinct_routes".'trip_id',\u000a"stop_times".'stop_sequence',\u000a"stops".'stop_name',\u000a"stops".'Geometry' AS Geometry
+p39
 s.
