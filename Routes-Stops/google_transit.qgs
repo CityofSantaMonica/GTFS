@@ -5,9 +5,9 @@
         <units>meters</units>
         <extent>
             <xmin>-13197686.8632156029343605</xmin>
-            <ymin>4018825.44046187447384</ymin>
+            <ymin>4018255.81291137356311083</ymin>
             <xmax>-13161246.91937997192144394</xmax>
-            <ymax>4039773.09450089232996106</ymax>
+            <ymax>4039203.46695039141923189</ymax>
         </extent>
         <projections>1</projections>
         <destinationsrs>
@@ -23,10 +23,10 @@
             </spatialrefsys>
         </destinationsrs>
     </mapcanvas>
-    <legend updateDrawingOrder="true" activeLayer="distinct_route_stops20140219124908543">
+    <legend updateDrawingOrder="true" activeLayer="distinct_route_stops20140219134842813">
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="distinct_route_stops" showFeatureCount="0">
             <filegroup open="true" hidden="false">
-                <legendlayerfile isInOverview="0" layerid="distinct_route_stops20140219124908543" visible="1"/>
+                <legendlayerfile isInOverview="0" layerid="distinct_route_stops20140219134842813" visible="1"/>
             </filegroup>
         </legendlayer>
         <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Google Streets" showFeatureCount="0">
@@ -59,9 +59,9 @@
             </srs>
             <customproperties/>
         </maplayer>
-        <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
-            <id>distinct_route_stops20140219124908543</id>
-            <datasource>dbname='./google_transit.sqlite' key='ROWID' table="distinct_route_stops" (Geometry) sql=</datasource>
+        <maplayer minimumScale="0" maximumScale="1e+08" minLabelScale="0" maxLabelScale="1e+08" geometry="Point" type="vector" hasScaleBasedVisibilityFlag="0" scaleBasedLabelVisibilityFlag="0">
+            <id>distinct_route_stops20140219134842813</id>
+            <datasource>./google_transit.sqlite|layername=distinct_route_stops</datasource>
             <title></title>
             <abstract></abstract>
             <keywordList>
@@ -80,8 +80,8 @@
                     <geographicflag>true</geographicflag>
                 </spatialrefsys>
             </srs>
-            <provider encoding="UTF-8">spatialite</provider>
-            <previewExpression></previewExpression>
+            <provider encoding="UTF-8">ogr</provider>
+            <previewExpression>COALESCE( "route_short_name", '&lt;NULL>' )</previewExpression>
             <vectorjoins/>
             <renderer-v2 attr="headsign" symbollevels="0" type="categorizedSymbol">
                 <categories>
@@ -1004,7 +1004,7 @@
                     <symbol alpha="1" type="marker" name="0">
                         <layer pass="0" class="SimpleMarker" locked="0">
                             <prop k="angle" v="0"/>
-                            <prop k="color" v="171,126,2,255"/>
+                            <prop k="color" v="163,196,225,255"/>
                             <prop k="color_border" v="0,0,0,255"/>
                             <prop k="name" v="circle"/>
                             <prop k="offset" v="0,0"/>
@@ -1174,8 +1174,10 @@
                 <edittype labelontop="0" editable="1" type="0" name="headsign"/>
                 <edittype labelontop="0" editable="1" type="0" name="route_long_name"/>
                 <edittype labelontop="0" editable="1" type="0" name="route_short_name"/>
+                <edittype labelontop="0" editable="1" type="0" name="stop_name"/>
                 <edittype labelontop="0" editable="1" type="0" name="stop_sequence"/>
                 <edittype labelontop="0" editable="1" type="0" name="trip_headsign"/>
+                <edittype labelontop="0" editable="1" type="0" name="trip_id"/>
             </edittypes>
             <editform></editform>
             <editforminit></editforminit>
