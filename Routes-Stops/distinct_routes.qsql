@@ -1,0 +1,47 @@
+(dp0
+S'query_table'
+p1
+V"routes", "trips"
+p2
+sS'coltables'
+p3
+(lp4
+Vroutes
+p5
+aVtrips
+p6
+asS'dbpath'
+p7
+VH:/google_transit/google_transit.sqlite
+p8
+sS'query_where'
+p9
+V"routes"."route_id" = "trips"."route_id"
+p10
+sS'col_col'
+p11
+(lp12
+V"routes".'route_short_name'
+p13
+aV"routes".'route_long_name'
+p14
+aV"trips".'trip_headsign'
+p15
+aV"trips".'direction_id'
+p16
+asS'query_group'
+p17
+V"routes"."route_short_name",\u000a"routes"."route_long_name",\u000a"trips"."direction_id",\u000a"stop_ids"
+p18
+sS'query_order'
+p19
+V
+p20
+sS'col_where'
+p21
+(lp22
+sS'query_cols'
+p23
+V"routes"."route_short_name",\u000a"routes"."route_long_name",\u000a"trips"."direction_id",\u000a(select group_concat("stop_times"."stop_id") from "stop_times" where "stop_times"."trip_id" = "trips"."trip_id") as "stop_ids",\u000amin("trips"."trip_id") as "trip_id"\u000a
+p24
+s.
