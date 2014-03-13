@@ -22,7 +22,7 @@ This process allows you to segregate route data by actual stop patterns, regardl
     - routes.txt (select "Trim Fields" and "No geometry (attribute only table)")
     - trips.txt (select "Trim Fields" and "No geometry (attribute only table)")
     - stop_times.txt (select "Trim Fields" and "No geometry (attribute only table)")
-    - stops.txt (select "Trim Fields" and "Point coordinates")
+    - stops.txt (select "Trim Fields" and "Point coordinates" then CRS "4326")
 6. (QGIS) "Database" | "SpatiaLite" | "QSpatiaLite"
   - This opens the QspatiaLite database manager
   - NOTE: The manager interface may look different from version to version so you'll need to mouse over the toolbar at the top to verify actions
