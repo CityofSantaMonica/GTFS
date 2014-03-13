@@ -45,6 +45,11 @@ CREATE UNIQUE INDEX 'ix_routes_route_id' ON 'routes' ('route_id')
 11. (QSpatiaLite) under the "SQL" tab:
   - execute the following query:
   ```SQL
+CREATE UNIQUE INDEX 'ix_stops_stop_id' ON 'stops' ('stop_id')
+  ```
+11. (QSpatiaLite) under the "SQL" tab:
+  - execute the following query:
+  ```SQL
 CREATE UNIQUE  INDEX 'ix_trips_trip_id' ON 'trips' ('trip_id')
   ```
 11. (QSpatiaLite) under the "SQL" tab:
