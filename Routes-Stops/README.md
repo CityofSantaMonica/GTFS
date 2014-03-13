@@ -83,3 +83,4 @@ ORDER BY 'distinct_routes' . 'headsign', 'stop_times' . 'stop_sequence'
 16. (QGIS) Right+Click on the "distinct_route_stops" layer and select "Properties"
 17. (QGIS) Click the "Style" tab and change "Single Symbol" to "Categorized"
 18. (QGIS) for "Column" select "headsign" and click the "Classify" button at the bottom
+19. (QspatiaLite) Delete Link to Database
