@@ -38,10 +38,19 @@ This process allows you to segregate route data by actual stop patterns, regardl
   4. stops
 10. (QGIS) Remove the four layers added in stop #7
 11. (QSpatiaLite) under the "SQL" tab:
-  - select the dropdown option "Create View & Load in QGIS"
-  - set the Table Name to "trip_stops"
   - execute the following query:
   ```SQL
+CREATE INDEX 'ix_stop_times_stop_sequence' ON 'stop_times' ('stop_sequence')
+  ```
+11. (QSpatiaLite) under the "SQL" tab:
+  - execute the following query:
+  ```SQL
+CREATE UNIQUE  INDEX 'ix_trips_trip_id' ON 'trips' ('trip_id')
+  ```
+11. (QSpatiaLite) under the "SQL" tab:
+  - execute the following query:
+  ```SQL
+CREATE VIEW 'trip_stops' AS
 SELECT trip_id,
   (SELECT group_concat('stop_times' . 'stop_id')
   FROM 'stop_times'
@@ -50,19 +59,17 @@ SELECT trip_id,
 FROM 'trips'
   ```
 12. (QSpatiaLite) under the "SQL" tab:
-  - select the dropdown option "Create View & Load in QGIS"
-  - set the Table Name to "unique_trips"
   - execute the following query:
   ```SQL
+CREATE VIEW 'unique_trips' AS
 SELECT MIN('trip_stops' . 'trip_id') AS trip_id, 'trip_stops' . 'stop_ids'
 FROM 'trip_stops'
 GROUP BY 'trip_stops' . 'stop_ids'
   ```
 13. (QSpatiaLite) under the "SQL" tab:
-  - select the dropdown option "Create View & Load in QGIS"
-  - set the Table Name to "distinct_routes"
   - execute the following query:
   ```SQL
+CREATE VIEW 'distinct_routes' AS
 SELECT 'routes' . 'route_short_name', 'routes' . 'route_long_name', 'trips' . 'direction_id', 'trips' . 'trip_headsign', 'routes' . 'route_short_name' || ' - ' || 'routes' . 'route_long_name' || ' - ' || 'trips' . 'direction_id' || ' - ' || coalesce('trips' . 'trip_headsign', ' ') AS headsign, 'unique_trips' . 'trip_id'
 FROM 'routes', 'trips', 'unique_trips'
 WHERE 'routes' . 'route_id' = 'trips' . 'route_id' AND 'trips' . 'trip_id' = 'unique_trips' . 'trip_id'
