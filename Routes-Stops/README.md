@@ -31,7 +31,7 @@ This process allows you to segregate route data by actual stop patterns, regardl
 8. (QspatiaLite) "Import QGIS Layer"
   - (Select All)
   - this will create four tables in the SpatiaLite database with the same names, "routes", "stop_times", "stops" (a point layer), and "trips"
-10. (QGIS) Remove the four layers added in stop #7
+10. (QGIS) Remove the four layers added in stop #5 (optional)
 11. (QSpatiaLite) under the "SQL" tab:
   - execute the following query:
   ```SQL
