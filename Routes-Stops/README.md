@@ -40,12 +40,17 @@ This process allows you to segregate route data by actual stop patterns, regardl
 11. (QSpatiaLite) under the "SQL" tab:
   - execute the following query:
   ```SQL
-CREATE INDEX 'ix_stop_times_trip_sequence' ON 'stop_times' ('trip_id', 'stop_sequence')
+CREATE UNIQUE INDEX 'ix_routes_route_id' ON 'routes' ('route_id')
   ```
 11. (QSpatiaLite) under the "SQL" tab:
   - execute the following query:
   ```SQL
 CREATE UNIQUE  INDEX 'ix_trips_trip_id' ON 'trips' ('trip_id')
+  ```
+11. (QSpatiaLite) under the "SQL" tab:
+  - execute the following query:
+  ```SQL
+CREATE UNIQUE INDEX 'ix_stop_times_trip_sequence' ON 'stop_times' ('trip_id', 'stop_sequence')
   ```
 11. (QSpatiaLite) under the "SQL" tab:
   - execute the following query:
