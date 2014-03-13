@@ -4,7 +4,7 @@
  
 ## Process
 
-This process allows you to segregate route data by actual stop patterns, regardless of trip_headign issues (e.g. extra spaces, etc.). It uses database features in SpatiaLite to create views and a distinct route signature using SQLITE's "group_concat" clause.
+This process allows you to segregate route data by actual stop patterns, regardless of trip_headign issues (e.g. extra spaces, etc.). It uses database features in SpatiaLite to create intermediate tables and distinct route signatures using SQLITE's "group_concat" clause.
 
 - Install QGIS from http://www.qgis.org
 - Install plugins
