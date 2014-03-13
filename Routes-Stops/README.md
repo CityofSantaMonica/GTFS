@@ -31,11 +31,6 @@ This process allows you to segregate route data by actual stop patterns, regardl
 8. (QspatiaLite) "Import QGIS Layer"
   - (Select All)
   - this will create four tables in the SpatiaLite database with the same names, "routes", "stop_times", "stops" (a point layer), and "trips"
-9. (QspatiaLite) Right+Click on the following four tables in the QspatiaLite manager and select "Load in QGIS"
-  1. routes
-  2. trips
-  3. stop_times
-  4. stops
 10. (QGIS) Remove the four layers added in stop #7
 11. (QSpatiaLite) under the "SQL" tab:
   - execute the following query:
@@ -76,7 +71,6 @@ FROM 'distinct_routes', 'stop_times', 'stops'
 WHERE 'distinct_routes' . 'trip_id' = 'stop_times' . 'trip_id' AND 'stop_times' . 'stop_id' = 'stops' . 'stop_id'
 ORDER BY 'distinct_routes' . 'headsign', 'stop_times' . 'stop_sequence'
   ```
-15. (QGIS) hide the "stops" layer
 16. (QGIS) Right+Click on the "distinct_route_stops" layer and select "Properties"
 17. (QGIS) Click the "Style" tab and change "Single Symbol" to "Categorized"
 18. (QGIS) for "Column" select "headsign" and click the "Classify" button at the bottom
