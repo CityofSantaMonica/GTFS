@@ -4,6 +4,8 @@
  
 ## Process
 
+This process allows you to segregate route data by actual stop patterns, regardless of trip_headign issues (e.g. extra spaces, etc.). It uses database features in SpatiaLite to create views and a distinct route signature using SQLITE's "group_concat" clause.
+
 1. Install QGIS from http://www.qgis.org
 2. Install plugins
   - QSpatiaLite
@@ -64,4 +66,18 @@ FROM 'routes', 'trips', 'unique_trips'
 WHERE 'routes' . 'route_id' = 'trips' . 'route_id' AND 'trips' . 'trip_id' = 'unique_trips' . 'trip_id'
 ORDER BY 'trips' . 'trip_headsign'
   ```
-16.
+16. (QSpatiaLite) under the "SQL" tab:
+  - select the dropdown option "Create Spatial View & Load in QGIS"
+  - set the Table Name to "distinct_route_stops"
+  - set the Geometry field to "Geometry"
+  - execute the following query:
+  ```SQL
+SELECT 'stops' . 'Geometry' AS Geometry, 'distinct_routes' . 'route_short_name', 'distinct_routes' . 'route_long_name', 'distinct_routes' . 'direction_id', 'distinct_routes' . 'trip_headsign', 'distinct_routes' . 'headsign', 'distinct_routes' . 'trip_id', 'stop_times' . 'stop_sequence', 'stops' . 'stop_name'
+FROM 'distinct_routes', 'stop_times', 'stops'
+WHERE 'distinct_routes' . 'trip_id' = 'stop_times' . 'trip_id' AND 'stop_times' . 'stop_id' = 'stops' . 'stop_id'
+ORDER BY 'distinct_routes' . 'headsign', 'stop_times' . 'stop_sequence'
+  ```
+17. (QGIS) hide the "stops" layer
+18. (QGIS) Right+Click on the "distinct_route_stops" layer and select "Properties"
+19. (QGIS) Click the "Style" tab and change "Single Symbol" to "Categorized"
+20. (QGIS) for "Column" select "headsign" and click the "Classify" button at the bottom
