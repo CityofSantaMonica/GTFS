@@ -28,6 +28,7 @@ This process allows you to segregate route data by actual stop patterns, regardl
   - NOTE: The manager interface may look different from version to version so you'll need to mouse over the toolbar at the top to verify actions
 7. (QspatiaLite) "Open/Create new database"
   - save the database gtfs.sqlite in the same folder where you unzipped GTFS zip content
+  - NOTE: this step can take some time and QGIS will be unresponsive while the SpatialLite support tables are being constructed
 8. (QspatiaLite) "Import QGIS Layer"
   - (Select All)
   - this will create four tables in the SpatiaLite database with the same names, "routes", "stop_times", "stops" (a point layer), and "trips"
